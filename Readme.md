@@ -38,25 +38,28 @@ Wabbajack Modlist Installer by The Animonculory Team
 
 
   ## Preamble
-
-  AVO should be a base for your own modlist. It contains mostly graphical enhancements and mandatory bug fixes. AVO is made for Skyrim Anniversary Edition (AE) and uses the .exe of it as well (important for making your list) 
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
 
   This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
-AVO as a base is aimed at mid tier machines so a system like the following is adviced:
+AVO is aimed at mid-tier machines so a system similar to the following is advised:
 
-### 1080p (my specs)
-- CPU: AMD Ryzen 7 3700X
+### 1080p
+- CPU: AMD Ryzen 5 3600 or Intel equivalent 
 - RAM: 16GB DDR4
 - Drive: SSD
-- GPU: NVIDIA GeForce RTX 3070 8GB
+- GPU: 6GB GPU such as 1660TI or 5600XT
 
-It will prob run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
+### 1440p
+- CPU: AMD Ryzen 7 5800x or Intel Equivalent 
+- RAM: 32GB DDR4 (16GB may run it, but 32GB **strongly recommended**)
+- Drive: NVME SSD
+- 8GB GPU such as RTX 3070 or AMD Equivalent
 
-Space required: Approx TBC(NeedsChangeLater)GB (Downloads included)
+Space required: Approx 88GB (Downloads included)
 
 ## Installation
 
@@ -114,12 +117,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
-
 ### ENB
-//needs to be changed later on//
+AVO comes with ENB binaries but no ENB installed. 
 
-
-AVO comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **two** options. Depending on your PC you might want to check them out. If you want to install your own ENB put them into a seperate folder in AVO/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+If you want to install your own ENB put them into a seperate folder in AVO/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ## Playing the List
@@ -130,13 +131,13 @@ Open the installation folder and double click on the program called `ModOrganize
 Make sure the dropdown box on the right is set to `SKSE` and press the run button.
 
 ### In-Game MCM options
+`AVO has no MCM options required`
 
-- This serves as a placeholder in case you want to use the Readme as some sort of template
+- This serves as a placeholder in case you want to use the Readme as some sort of template.
 
 ### Starting the Game
 
-Placeholder for your Readme, by default AVO uses the vanilla start
-
+Placeholder for your Readme, by default AVO uses the vanilla start.
 
 ## Updating the modlist
 
@@ -161,16 +162,10 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 ## Removing the Modlist
 Simply delete the folder and you have uninstalled it.
 
-
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Althro for assisting with so many things. And allowing me to fork the readme. You’re awesome.
-- Chef for the help with the armors
-- Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
-- Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it
-- Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot
-- The Animonculory Dev Team.
+- The Animonculory Dev Team for assisting with the testing and development.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
