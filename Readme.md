@@ -38,7 +38,7 @@ Wabbajack Modlist Installer by The Animonculory Team
 
 
   ## Preamble
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
 
   This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -59,7 +59,7 @@ AVO is aimed at mid-tier machines so a system similar to the following is advise
 - Drive: NVME SSD
 - 8GB GPU such as RTX 3070 or AMD Equivalent
 
-Space required: Approx 88GB (Downloads included)
+Space required: Approx 95GB (Downloads included)
 
 ## Installation
 
@@ -118,10 +118,27 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ### ENB
-AVO comes with ENB binaries but no ENB installed. 
+AVO comes with 2 ENB's avaiilable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets. 
 
-If you want to install your own ENB put them into a seperate folder in AVO/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
-Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+#### Using ENB Manager
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
+
+If the image below comes up, simply press OK. It is nothing to be concerned about.
+
+![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Ignore%20Warning.png)
+
+Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
+
+Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%205.png)
+
+For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ## Playing the List
 
@@ -133,11 +150,14 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 ### In-Game MCM options
 `AVO has no MCM options required`
 
-- This serves as a placeholder in case you want to use the Readme as some sort of template.
+	- This serves as a placeholder in case you want to use the Readme as some sort of template.
 
 ### Starting the Game
 
-Placeholder for your Readme, by default AVO uses the vanilla start.
+	- Placeholder for your Readme, by default AVO uses the vanilla start.
+	
+### Optional Extras
+By default AVO comes with LUX and Water for ENB enabled along with generated lods. These can all be safely disabled should you wish to not use them, however you cannot run with lods activated but Water for ENB disabled. Any changes that you make to the landscape you will need to/should be regenerating lods and Synthesis.
 
 ## Updating the modlist
 
