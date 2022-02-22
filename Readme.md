@@ -1,5 +1,7 @@
 # Animonculory Visual Overhaul
 
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ScreenShot11.png?raw=true)
+
 Wabbajack Modlist Installer by The Animonculory Team
 
 **Modlist Download: [Needs to be Changed]()**
@@ -40,8 +42,7 @@ Wabbajack Modlist Installer by The Animonculory Team
   ## Preamble
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
 
-  This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
@@ -59,7 +60,7 @@ AVO is aimed at mid-tier machines so a system similar to the following is advise
 - Drive: NVME SSD
 - 8GB GPU such as RTX 3070 or AMD Equivalent
 
-Space required: Approx 95GB (Downloads included)
+Space required: Approx 100GB (Downloads included)
 
 ## Installation
 
@@ -71,8 +72,8 @@ Prior to installing AVO, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
-4. Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location.
+3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. You also need to start the games to the main menu in order to download all the creations.
 
@@ -100,6 +101,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+
 - x is not a whitelisted download:
 
 	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
@@ -118,7 +120,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ### ENB
-AVO comes with 2 ENB's avaiilable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets. 
+AVO comes with 2 ENB's availiable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets. 
 
 #### Using ENB Manager
 
@@ -154,7 +156,7 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 
 ### Starting the Game
 
-	- Placeholder for your Readme, by default AVO uses the vanilla start.
+	- Placeholder for your Readme, by default AVO uses Alternate Perspective.
 	
 ### Optional Extras
 By default AVO comes with LUX and Water for ENB enabled along with generated lods. These can all be safely disabled should you wish to not use them, however you cannot run with lods activated but Water for ENB disabled. Any changes that you make to the landscape you will need to/should be regenerating lods and Synthesis.
