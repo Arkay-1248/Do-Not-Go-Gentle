@@ -4,7 +4,7 @@
 
 Wabbajack Modlist Installer by The Animonculory Team
 
-**Modlist Download: [Needs to be Changed]()**
+**Modlist Download: [Releases](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/releases)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
