@@ -152,11 +152,11 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 ### In-Game MCM options
 `AVO has no MCM options required`
 
-	- This serves as a placeholder in case you want to use the Readme as some sort of template.
+- This serves as a placeholder in case you want to use the Readme as some sort of template.
 
 ### Starting the Game
 
-	- Placeholder for your Readme, by default AVO uses Alternate Perspective.
+- Placeholder for your Readme, by default AVO uses Alternate Perspective.
 	
 ### Optional Extras
 By default AVO comes with LUX and Water for ENB enabled along with generated lods. These can all be safely disabled should you wish to not use them, however you cannot run with lods activated but Water for ENB disabled. Any changes that you make to the landscape you will need to/should be regenerating lods and Synthesis.
