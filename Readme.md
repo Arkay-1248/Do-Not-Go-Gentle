@@ -130,7 +130,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 If the image below comes up, simply press OK. It is nothing to be concerned about.
 
-![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Ignore%20Warning.png)
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
 
 Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
 
@@ -156,10 +156,10 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 
 ### Starting the Game
 
-- Placeholder for your Readme, by default AVO uses Alternate Perspective.
+- Placeholder for your Readme, by default AVO uses [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307).
 	
 ### Optional Extras
-By default AVO comes with LUX and Water for ENB enabled along with generated lods. These can all be safely disabled should you wish to not use them, however you cannot run with lods activated but Water for ENB disabled. Any changes that you make to the landscape you will need to/should be regenerating lods and Synthesis.
+By default AVO comes with [LUX](https://www.nexusmods.com/skyrimspecialedition/mods/43158) and [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061) enabled along with generated lods. These can all be safely disabled should you wish to not use them, however you cannot run with lods activated but Water for ENB disabled. Any changes that you make to the landscape you will need to/should be regenerating lods and Synthesis.
 
 ## Updating the modlist
 
