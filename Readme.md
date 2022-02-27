@@ -1,6 +1,6 @@
 # Animonculory Visual Overhaul
 
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ScreenShot11.png?raw=true)
+![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVO.webp)
 
 Wabbajack Modlist Installer by The Animonculory Team
 
