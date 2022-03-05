@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.8.3
+
+**Build at:** `05/03/2022 13:54:11`
+
+**Info**:
+
+- Download Size change: -991.8KB (Total: 46.1GB)
+- Install Size change: -56.1KB (Total: 59.8GB)
+
+**Download Changes**:
+
+- Updated [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=265345)
+- Updated [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=267651)
+- Updated [zzjay's Horse Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=266221)
+
 ## 0.8.2
 - Fixed issue with smelter coal and FirePits
 - Fixed issue with smithing water bath
