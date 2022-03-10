@@ -40,7 +40,7 @@ Wabbajack Modlist Installer by The Animonculory Team
   - [Contact](#contact)
 
   ## Preamble
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Weathers for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/55005) by default however can support whichever weather mod you wish to use.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -120,7 +120,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ### ENB
-AVO comes with 2 ENB's availiable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets. 
+AVO is designed for use with an ENB and comes with [Nordic Serenity ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62088) availiable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets.
 
 #### Using ENB Manager
 
