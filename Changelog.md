@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.0
+
+**Build at:** `soon`
+
+**Note: Not save compatible**
+
+**Info**:
+- Replaced ENB's with Lux compatible ENB's
+- Regenerated Lods
+- Regenerated Facegen
+- Regenerated Synthesis
+
 ## 0.8.3
 
 **Build at:** `05/03/2022 13:54:11`
