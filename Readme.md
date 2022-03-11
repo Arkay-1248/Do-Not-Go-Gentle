@@ -54,7 +54,7 @@ AVO is aimed at mid-tier machines so a system similar to the following is advise
 - CPU: AMD Ryzen 5 3600 or Intel equivalent 
 - RAM: 16GB DDR4
 - Drive: SSD
-- GPU: 6GB GPU such as 1660TI or 5600XT
+- GPU: 6GB GPU such as 1660TI or 5600XT (4GB GPU may be able to run it, but 6GB **stongly recommended**)
 
 ### 1440p
 - CPU: AMD Ryzen 7 5800x or Intel Equivalent 
