@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.0.1
+
+**Save compatible**
+
+**Build at:** `14/03/2022 20:30:00`
+
+**Info**:
+
+- Fixed issue with candles on Arcane Enchanters
+- Fixed issue with loading screens being too bright
+- Download Size change: 33.3MB (Total: 47.2GB)
+- Install Size change: 206.5MB (Total: 61.2GB)
+
+**Download Changes**:
+
+- Removed [Journeyman - 100 Custom Loading Screen Megapack](https://www.nexusmods.com/skyrimspecialedition/mods/62711/?tab=files&file_id=260457)
+- Added [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929/?tab=files&file_id=149299)
+
 ## 1.0.0
 
 **Note: Not save compatible**
