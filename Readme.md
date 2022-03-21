@@ -42,7 +42,9 @@ Wabbajack Modlist Installer by The Animonculory Team
   ## Preamble
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Weathers for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/55005) by default however can support whichever weather mod you wish to use.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul) and a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW)
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul) and a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW).
+
+**NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -152,7 +154,7 @@ Open the installation folder and double click on the program called `ModOrganize
 Make sure the dropdown box on the right is set to `SKSE` and press the run button.
 
 ### In-Game MCM options
-`AVO has no MCM options required`
+`AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
 
 - This serves as a placeholder in case you want to use the Readme as some sort of template.
 
@@ -172,6 +174,10 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 Placehoder for your readme
+
+### Anniversary Edition
+
+AVO supports the latest verison of Skyrim, but **does not require** the paid update. If you have the paid update and wish to use the new content, you will need to copy it into the `Creation Club` mod in Mod Organizer and resolve any conflicts that appear in xEdit. **Note: This is something we do not support as it is an addition to the list.**
 
 ### Tweaking the Game Settings
 
