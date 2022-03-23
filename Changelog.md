@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.1
+
+**Not Save Compatible**
+
+**Build at:** `23/03/2022 20:26:32`
+
+**Info**:
+
+- Fixed issue with SMIM breaking activatable levers.
+- Regenerated all generated content.
+- Download Size change: -73.6MB (Total: 47.3GB)
+- Install Size change: 2.1GB (Total: 59.2GB)
+
+**Download Changes**:
+
+- Added [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=271294)
+- Added [Reverie - Skin](https://www.nexusmods.com/skyrimspecialedition/mods/64314/?tab=files&file_id=271876)
+- Added [Simple Children](https://www.nexusmods.com/skyrimspecialedition/mods/22789/?tab=files&file_id=80397)
+- Added [xLODGen.93.7z](https://authored-files.wabbajack.org/xLODGen.93.7z_b2c73c09-032b-4391-aa58-478cd3dcc72e/)
+- Added [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=262162)
+- Added [Simple Children](https://www.nexusmods.com/skyrimspecialedition/mods/22789/?tab=files&file_id=81956)
+- Added [TK Children SE](https://www.nexusmods.com/skyrimspecialedition/mods/5916/?tab=files&file_id=160463)
+- Added [Vanilla hair - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/45147/?tab=files&file_id=183349)
+- Added [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979/?tab=files&file_id=268282)
+- Removed [VHR - Vanilla Hair Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/25574/?tab=files&file_id=121427)
+- Removed [REALORE Skin -CBBE-UNP Female Texture](https://www.nexusmods.com/skyrimspecialedition/mods/62739/?tab=files&file_id=262905)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=268287)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=268903)
+
 ## 1.0.1
 
 **Save compatible**
