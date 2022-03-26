@@ -1,5 +1,42 @@
 # Changelog
 
+## 1.2
+
+**Not Save Compatible**
+
+**Build at:** `26/03/2022 17:08:19`
+
+**Info**:
+
+- Download Size change: -162.7MB (Total: 47.4GB)
+- Install Size change: -257.6MB (Total: 59.4GB)
+
+**Download Changes**:
+
+- Added [Classic Enhanced - Vanilla Plus Smoothcam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65521/?tab=files&file_id=272645)
+- Added [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725/?tab=files&file_id=269636)
+- Added [FYX - 3D Dock Ramp](https://www.nexusmods.com/skyrimspecialedition/mods/64529/?tab=files&file_id=271825)
+- Added [FYX - 3D Farmhouse Walkway](https://www.nexusmods.com/skyrimspecialedition/mods/64809/?tab=files&file_id=270137)
+- Added [FYX - 3D Honeyside Deck Floor](https://www.nexusmods.com/skyrimspecialedition/mods/64485/?tab=files&file_id=271831)
+- Added [FYX - 3D Whiterun Drawbridge Gate](https://www.nexusmods.com/skyrimspecialedition/mods/64645/?tab=files&file_id=271864)
+- Added [FYX - 3D Whiterun Scaffold](https://www.nexusmods.com/skyrimspecialedition/mods/64641/?tab=files&file_id=271821)
+- Added [FYX - 3D Whiterun Tree Circle](https://www.nexusmods.com/skyrimspecialedition/mods/65352/?tab=files&file_id=271979)
+- Added [FYX - Candlehearth Hall Chimney](https://www.nexusmods.com/skyrimspecialedition/mods/65533/?tab=files&file_id=272712)
+- Added [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953/?tab=files&file_id=271676)
+- Added [Skyrim Vanilla Remix Signs](https://www.nexusmods.com/skyrimspecialedition/mods/45002/?tab=files&file_id=182656)
+- Added [Windhelm Entrance Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60973/?tab=files&file_id=252918)
+- Added [Windhelm Fence 3D](https://www.nexusmods.com/skyrimspecialedition/mods/65346/?tab=files&file_id=272201)
+- Removed [Alternate Perspective - Prologue Retold](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=259005)
+- Removed [Alternate Perspective - Starting Item Roleplay Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/60039/?tab=files&file_id=248884)
+- Removed [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481/?tab=files&file_id=177000)
+- Updated [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472/?tab=files&file_id=272401)
+- Updated [Ancient AF Windhelm - Windhelm Retextured](https://www.nexusmods.com/skyrimspecialedition/mods/63330/?tab=files&file_id=271903)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=272445)
+- Updated [Hide Quest Items in Container Menu](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
+- Updated [Lux - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/60524/?tab=files&file_id=269548)
+- Updated [Reverie - Skin](https://www.nexusmods.com/skyrimspecialedition/mods/64314/?tab=files&file_id=272308)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=270837)
+
 ## 1.1
 
 **Not Save Compatible**
