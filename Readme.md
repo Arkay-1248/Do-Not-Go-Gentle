@@ -1,10 +1,10 @@
 # Animonculory Visual Overhaul
 
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVO%20Banner.webp)
+![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVODaveRiftenBanner.webp)
 
 Wabbajack Modlist Installer by The Animonculory Team
 
-**Modlist Download: [Releases](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/releases)**
+**Modlist Download: [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
