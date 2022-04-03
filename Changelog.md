@@ -1,5 +1,43 @@
 # Changelog
 
+## 1.3
+
+**Should be save compatible**
+
+**Build at:** `03/04/2022 23:10:44`
+
+**Info**:
+
+- Download Size change: -197.7MB (Total: 47.6GB)
+- Install Size change: -341.7MB (Total: 59.7GB)
+- Regenerated Generated files.
+
+**Download Changes**:
+
+- Added [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
+- Added [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=273044)
+- Added [EMPEROR - Giant Crab Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58612/?tab=files&file_id=243653)
+- Added [Less Ghostly Emperor Crab](https://www.nexusmods.com/skyrimspecialedition/mods/65947/?tab=files&file_id=274621)
+- Added [Riften of Reverie SE - 8K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/65596/?tab=files&file_id=273081)
+- Added [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=273045)
+- Removed [FYX - 3D Dock Ramp](https://www.nexusmods.com/skyrimspecialedition/mods/64529/?tab=files&file_id=271825)
+- Removed [FYX - 3D Honeyside Deck Floor](https://www.nexusmods.com/skyrimspecialedition/mods/64485/?tab=files&file_id=271831)
+- Updated [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=272824)
+- Updated [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=273975)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=274577)
+- Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756/?tab=files&file_id=273723)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=274096)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=274097)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=274075)
+- Updated [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915/?tab=files&file_id=274463)
+- Updated [Particle Lights for ENB - Light Orbs - Motes](https://www.nexusmods.com/skyrimspecialedition/mods/50737/?tab=files&file_id=273180)
+- Updated [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335/?tab=files&file_id=273185)
+- Updated [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335/?tab=files&file_id=273186)
+- Updated [Particle Lights for ENB - Staff Enchanter](https://www.nexusmods.com/skyrimspecialedition/mods/51454/?tab=files&file_id=273183)
+- Updated [Particle Lights for ENB - Wisps - Witchlight](https://www.nexusmods.com/skyrimspecialedition/mods/50868/?tab=files&file_id=273182)
+- Updated [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=274077)
+- Updated [Windhelm Fence 3D](https://www.nexusmods.com/skyrimspecialedition/mods/65346/?tab=files&file_id=273542)
+
 ## 1.2
 
 **Not Save Compatible**
