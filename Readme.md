@@ -195,9 +195,18 @@ Simply delete the folder and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- The Animonculory Dev Team for assisting with the testing and development.
+- The Animonculory Team.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
+
+## The Animonculory Team
+- Althro - Leader & Head of Development
+- Styyx - Senior Management Team & Dev Team
+- Chef/Para0x - Senior Management Team & Dev Team
+- The Spaniard -Senior Management Team & Documentation
+- GuitarBarbarian - Senior Management Team
+- Annakins - Dev Team, Testing & Documentation
+- Astro - Testing
 
 ## Contact
 
