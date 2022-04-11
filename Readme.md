@@ -199,17 +199,18 @@ Simply delete the folder and you have uninstalled it.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
+## Contact
+
+Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+
+You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
+
 ## The Animonculory Team
 - Althro - Leader & Head of Development
 - Styyx - Senior Management Team & Dev Team
 - Chef/Para0x - Senior Management Team & Dev Team
 - The Spaniard -Senior Management Team & Documentation
 - GuitarBarbarian - Senior Management Team
-- Annakins - Dev Team, Testing & Documentation
-- Astro - Testing
-
-## Contact
-
-Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
-
-You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
+- Annakins - Dev Team, Testing, Graphics & Documentation
+- Astro - Dev Team & Testing
+- DestinySlayer - Dev Team & Community Engagement
