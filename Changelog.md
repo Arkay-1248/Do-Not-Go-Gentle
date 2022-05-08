@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.4.1
+
+**Potentially not Save Safe**
+
+**Build at:** `08/05/2022 19:37:36`
+
+**Info**:
+
+- Download Size change: -466.7MB (Total: 46GB)
+- Install Size change: 64.1MB (Total: 60.1GB)
+
+**Download Changes**:
+
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=282297)
+- Updated [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953/?tab=files&file_id=282311)
+- Updated [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=282275)
+
 ## 1.4
 
 **NOT SAVE COMPATIBLE**
