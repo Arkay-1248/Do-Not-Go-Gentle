@@ -44,10 +44,12 @@ Wabbajack Modlist Installer by The Animonculory Team
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
 
-  ## Preamble
+## Preamble
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Weathers for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/55005) by default however can support whichever weather mod you wish to use.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul) and a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
+
+[![AVO Showcase](https://img.youtube.com/vi/va_Pcz8R53g/0.jpg)](https://www.youtube.com/watch?v=va_Pcz8R53g)
 
 **NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. 
 
