@@ -49,7 +49,7 @@ Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. F
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
 
-[![AVO Showcase](https://img.youtube.com/vi/va_Pcz8R53g/0.jpg)](https://www.youtube.com/watch?v=va_Pcz8R53g)
+[![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
 
 **NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. 
 
