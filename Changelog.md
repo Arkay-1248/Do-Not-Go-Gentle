@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0 - "Thus, always and unto..."
+
+`Coming soon`
+
 ## 1.4.1
 
 **Potentially not Save Safe**
