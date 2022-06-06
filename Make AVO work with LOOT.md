@@ -3,7 +3,7 @@
 ## Preamble
 
 While LOOT will not solve any conflicts for you and it is no substitude for proper patching, it allows easy sorting for anyone who just wants to add a few mods.
-To get AVO to work with LOOT, there are a few steps required to ensure LOOT not messing up the custom load order
+To get AVO to work with LOOT, there are a few steps required to ensure that LOOT won't mess up the custom load order.
 
 ## How to set it up
 
