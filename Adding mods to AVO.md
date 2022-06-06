@@ -16,6 +16,12 @@ You may have seen us say "the left should match the right" when it comes to modl
 
 What it essentially means is that your mod order on the left hand side of MO2 matches the plugin order on the right. For example, USMP is designed to load after USSEP and on the right hand plugin view side will load like that. Therefore, we should place the USMP mod on the left hand below USSEP in priority. Whatever loads lower in priority (higher number) will be what is loaded in the game.
 
+### LOOT
+
+As of version 2 of AVO, LOOT is included with the list alongside a custom `userdata.yaml` file. The aforementioned file applies custom groups to the plugins in AVO to ensure that the existing load-order is preserved. In order to copy the file across, please complete the following steps:
+
+`tbc`
+
 ### General modifications
 
 Move every addition you make **above** the Synthesis and DynDOLOD esps.
