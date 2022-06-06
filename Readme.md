@@ -169,9 +169,13 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 
 - Placeholder for your Readme, by default AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
 	
-### Adding mods to AVO
+## Adding mods to AVO
 
 To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md) which covers some of the details you need to know.
+
+### Anniversary Edition
+
+AVO supports the latest verison of Skyrim, but **does not require** the paid update. If you have the paid update and wish to use the new content, you will need to copy it into the `Creation Club` mod in Mod Organizer and resolve any conflicts that appear in xEdit. **Note: This is something we do not support as it is an addition to the list.**
 
 ## Updating the modlist
 
@@ -182,10 +186,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 Placehoder for your readme
-
-### Anniversary Edition
-
-AVO supports the latest verison of Skyrim, but **does not require** the paid update. If you have the paid update and wish to use the new content, you will need to copy it into the `Creation Club` mod in Mod Organizer and resolve any conflicts that appear in xEdit. **Note: This is something we do not support as it is an addition to the list.**
 
 ### Tweaking the Game Settings
 
