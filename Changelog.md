@@ -4,6 +4,17 @@
 
 `Coming soon`
 
+**NOT SAVE COMPATIBLE**
+
+**Info**:
+- Changed lighting mods to be more in line with vision of the list.
+- Optional mods are now integrated into list (it is method patched though so you can still remove them if you know how)
+- Provided 2 new ENB's which match lighting mod.
+- Regenned Bodyslide with new more realistic preset.
+- Regenned FaceGen to make use of new assets.
+- Regenned Lods to reflect changes to worldspace textures/meshes.
+- Updated INI files to provide greater visual fidelity (There may more of a performance hit due to this)
+
 ## 1.4.1
 
 **Potentially not Save Safe**
