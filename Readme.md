@@ -167,10 +167,11 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 
 ### Starting the Game
 
-- Placeholder for your Readme, by default AVO uses [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307).
+- Placeholder for your Readme, by default AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
 	
-### Optional Extras
-By default AVO comes with [LUX](https://www.nexusmods.com/skyrimspecialedition/mods/43158) and [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061) enabled along with generated lods. These can all be safely disabled should you wish to not use them, however you cannot run with lods activated but Water for ENB disabled. Any changes that you make to the landscape you will need to/should be regenerating lods and Synthesis.
+### Adding mods to AVO
+
+To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md) which covers some of the details you need to know.
 
 ## Updating the modlist
 
