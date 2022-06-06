@@ -18,9 +18,7 @@ What it essentially means is that your mod order on the left hand side of MO2 ma
 
 ### LOOT
 
-As of version 2 of AVO, LOOT is included with the list alongside a custom `userdata.yaml` file. The aforementioned file applies custom groups to the plugins in AVO to ensure that the existing load order is preserved. In order to copy the file across, please complete the following steps:
-
-`tbc`
+As of version 2 of AVO, LOOT is included with the list alongside a custom `userdata.yaml` file. The aforementioned file applies custom groups to the plugins in AVO to ensure that the existing load order is preserved. In order to copy the file across, please follow [this guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Make%20AVO%20work%20with%20LOOT.md) which covers getting the `.yaml` file installed in the correct place.
 
 ### General Modifications
 
