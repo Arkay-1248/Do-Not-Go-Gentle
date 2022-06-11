@@ -11,7 +11,7 @@
 **Info**:
 - Added custom LOOT `userdata.yaml` file to facilitate correct loot sorting. Please see [Make AVO work with LOOT](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Make%20AVO%20work%20with%20LOOT.md) for more details.
 - Changed lighting mods to be more in line with vision of the list.
-- Created AVO-AE (Full paid update version of the list, please check [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) for more details. Thanks to Styyx for creating this.
+- Created AVO-AE (Full paid update version of the list, please check [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) for more details. Thanks to Styyx for creating this).
 - Created Grass Lods to further complement the visaul look of the list.
 - Optional mods are now integrated into list (it is method patched though so you can still remove them if you know how)
 - Provided 2 new ENB's which match lighting mod.
