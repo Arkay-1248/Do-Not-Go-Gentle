@@ -9,6 +9,10 @@
 **NOT SAVE COMPATIBLE**
 
 **Info - AVO main**:
+
+**Build at:** `13/06/2022 20:55:17`
+- Download Size change: -3.7GB (Total: 49.7GB)
+- Install Size change: -11.3GB (Total: 71.4GB)
 - Added custom LOOT `userdata.yaml` file to facilitate correct loot sorting. Please see [Make AVO work with LOOT](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Make%20AVO%20work%20with%20LOOT.md) for more details.
 - Changed lighting mods to be more in line with vision of the list.
 - Created Grass Lods to further complement the visaul look of the list.
@@ -19,6 +23,8 @@
 - Updated INI files to provide greater visual fidelity (There may more of a performance hit due to this)
 
 **Info - AVO-AE**
+- Download Size change: -12.5GB (Total: 58.4GB)
+- Install Size change: -22.6GB (Total: 82.7GB)
 - First release of this version. This requires the **Full paid update**, please check [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) for more details. Thanks to Styyx for creating this
 - Added custom LOOT `userdata.yaml` file to facilitate correct loot sorting. Please see [Make AVO work with LOOT](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Make%20AVO%20work%20with%20LOOT.md) for more details.
 - Created new Generated Files.
