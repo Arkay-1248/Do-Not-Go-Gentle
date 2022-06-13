@@ -135,7 +135,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 AVO-AE uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-AVO-AE is designed for use with an ENB and comes with [iiENB](https://www.nexusmods.com/skyrimspecialedition/mods/30716) & [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971) availiable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets.
+AVO-AE is designed for use with an ENB and comes with [Ljoss ReLUX](https://www.nexusmods.com/skyrimspecialedition/mods/63578) availiable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets. You will need to enable the ENB via ENB Manager prior to starting the game.
 
 #### Using ENB Manager
 
