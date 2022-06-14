@@ -60,18 +60,27 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 AVO is aimed at mid-tier machines so a system similar to the following is advised:
 
 ### 1080p
-- CPU: AMD Ryzen 5 3600 or Intel equivalent 
+- CPU: Modern Quad or Hex core processor (R5 2600/i5-8600k or better)
 - RAM: 16GB DDR4
 - Drive: SSD
 - GPU: 6GB GPU such as 1660TI or 5600XT (4GB GPU may be able to run it, but 6GB **stongly recommended**)
 
 ### 1440p
-- CPU: AMD Ryzen 7 5800x or Intel Equivalent 
+- CPU: Modern Hex or Octo core processor (R7 5800x/i7-10700k or better)
 - RAM: 32GB DDR4 (16GB may run it, but 32GB **strongly recommended**)
 - Drive: NVME SSD
-- 8GB GPU such as RTX 3070 or AMD Equivalent
+- 8GB GPU such as RTX 3070 or AMD Equivalent (AMD RX 500 series is **NOT** suitable for running this list at 1440p)
 
-Space required: Approx 100GB (Downloads included)
+### My specs
+
+- R7 5800x
+- 32GB DDR4 3600mhz
+- NVME M.2 PCIE 3 SSD
+- XFX Merc Rx 6800 (16GB VRAM)
+
+I average (uncapped) 120+ fps in interiors and 70-90fps in exteriors with the ENB on.
+
+Space required: Approx 115GB (Downloads included)
 
 ## Installation
 
@@ -175,7 +184,9 @@ To safely add mods to AVO, please read [the guide](https://github.com/The-Animon
 
 ### Anniversary Edition
 
-AVO supports the latest verison of Skyrim, but **does not require** the paid update. If you have the paid update and wish to use the new content, you will need to copy it into the `Creation Club` mod in Mod Organizer and resolve any conflicts that appear in xEdit. **Note: This is something we do not support as it is an addition to the list.**
+AVO supports the latest verison of Skyrim, but **does not require** the paid update. 
+
+If you have the paid update, [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) {Coming soon!} is available for you to use. Please see the linked document for more details about it.
 
 ## Updating the modlist
 
