@@ -10,17 +10,38 @@ AVO uses **Skyrim version 1.6.xx**. This means that **you need to use plugins th
 
 AVO is method patched which means that you can, within reason, remove or change near enough anything. The only things that are not method patches are the generated outputs. These **will need to be regenerated** depending on what you change. More details are given in the relavant sections.
 
-## Making Modifications
+## Before You Begin
 
 You may have seen us say "the left should match the right" when it comes to modlists, but what does this actually mean?
 
 What it essentially means is that your mod order on the left hand side of MO2 matches the plugin order on the right. For example, USMP is designed to load after USSEP and on the right hand plugin view side will load like that. Therefore, we should place the USMP mod on the left hand below USSEP in priority. Whatever loads lower in priority (higher number) will be what is loaded in the game.
 
+### Bash & Smash
+
+**NEVER** attempt to create a Bash or Smashed patch on AVO. You should **ONLY** use Wrye Bash to swap masters on a plugin or use the mod-checker and **NEVER** attempt to use Smash oon this list. Bash and smash patches are, for Skyrim Special/Anniversary Edition, broken and **SHOULD NOT** be used. You can do almost everything they do via a custom patch in xEdit.
+
+Neither tool is included with the list as they are not required. If you do wish to add Bash, **you will need to reroute the managed game to your vanilla install**. If you do not, you will break the load order.
+
 ### LOOT
 
 As of version 2 of AVO, LOOT is included with the list alongside a custom `userdata.yaml` file. The aforementioned file applies custom groups to the plugins in AVO to ensure that the existing load order is preserved. In order to copy the file across, please follow [this guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Make%20AVO%20work%20with%20LOOT.md) which covers getting the `.yaml` file installed in the correct place.
 
-### General Modifications
+### Synthesis
+
+If you add any mod with a plugin, it's recommended to re-run Synthesis. The patchers are split into 2 groups and are as follows:
+
+__Synthesis__
+- enblightpatcher
+- SynFloraFix
+- khajiitearsshow
+- nodragonlods
+
+__ELE-SynthMasterPatch__
+- ELE_Patcher (only required on standard AVO)
+
+No custom data is used in these patches so you can just simply run them.
+
+## Adding Mods
 
 Move every addition you make **above** the Synthesis and DynDOLOD esps.
 
@@ -32,7 +53,7 @@ For mods that include SKSE Plugins, **you need to use plugins that are made for 
 
 This is where things can get a bit complicated. What action you'll need to take depends on what your mesh/texture does. Mesh/texture replacer mods tend to fall into three categories: worldspace, non worldspace and NPC replacers. 
 
-#### Non Worldspace meshes/textures
+#### Non Worldspace Meshes/Textures
 
 These are mods that change things relating to: 
 - Armors
@@ -60,4 +81,4 @@ These are mods that change things relating to:
 - NPC's
 - Facedata
 
-As with worldspace mesh/texture replacers, these are a bit more involved and you will need to either regenerate all of the facegen or re-install certain mods to bring back the original facegen. Please follow [this guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md) on how to regenerate facegen.
+As of AVO 2.0, you no longer need to regenerate all of the facegen for newly added quest mods or have to contend with it. By default, AVO uses HMB II which has the option of assets to create new facegen. If you wish to do this, please follow [this guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md) which details the process of doing so.
