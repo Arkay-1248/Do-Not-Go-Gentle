@@ -50,7 +50,7 @@ Wabbajack Modlist Installer by The Animonculory Team
 
 Animonculory Visual Overhaul **Anniversary Edition** (AVO-AE) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO-AE is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) by default however can support whichever weather mod you wish to use.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/wOfuqS5) and a video showcase by DroppedIceCream can be viewed below.
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/qex5a8J) and a video showcase by DroppedIceCream can be viewed below.
 
 [![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
 
