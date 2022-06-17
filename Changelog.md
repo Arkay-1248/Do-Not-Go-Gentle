@@ -4,13 +4,12 @@
 
 **Note from the author:** This is a major update to take AVO to where I (Althro) envisaged it when I first created it. Many new advances have come along since I started making the original and, as a result, there is a higher level of visual fidelity now. We also made the decision to create a "fork" which supports the full paid update for those wishing to make use of the new content. I hope that you enjoy this new update :) 
 
-`Coming soon`
+`Build at: 17/06/2022`
 
 **NOT SAVE COMPATIBLE**
 
 **Info - AVO main**:
 
-**Build at:** `13/06/2022 20:55:17`
 - Download Size change: -3.7GB (Total: 49.7GB)
 - Install Size change: -11.3GB (Total: 71.4GB)
 - Added custom LOOT `userdata.yaml` file to facilitate correct loot sorting. Please see [Make AVO work with LOOT](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Make%20AVO%20work%20with%20LOOT.md) for more details.
