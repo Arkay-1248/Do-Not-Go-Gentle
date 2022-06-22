@@ -1,5 +1,32 @@
 # Changelog
 
+## 2.0.2
+
+**Potentially not Save Safe**
+
+**Info**:
+
+- Fixed issue with Ice meshes not looking right
+- Fixed issue with Dawnstar Shoreline
+- Fixed mesh issue on Candles [There were so many of these...]
+- Tweaked the order of certain mods/records to allow for more consistency across the list
+- Download Size change: -124MB (Total: 50.2GB)
+- Install Size change: 86.7MB (Total: 71GB)
+
+**Download Changes**:
+
+- Updated [NIF Preview (3D Model Viewer) for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/69813/?tab=files&file_id=292850)
+- Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=292867)
+- Updated [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=292309)
+- Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=292648)
+- Updated [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907/?tab=files&file_id=292463)
+- Removed [Northern Ice](https://www.nexusmods.com/skyrimspecialedition/mods/41854/?tab=files&file_id=167826)
+- Removed [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653/?tab=files&file_id=285897)
+- Removed [Radiant - Candles (ENB Lights)](https://www.nexusmods.com/skyrimspecialedition/mods/55856/?tab=files&file_id=240709)
+- Added [Dawnstar Shore - A Texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/56577/?tab=files&file_id=292389)
+- Added [SC - Glacierslab Addon](https://www.nexusmods.com/skyrim/mods/99443/?tab=files&file_id=1000305418)
+- Added [Glacierslab SSE](https://www.nexusmods.com/skyrimspecialedition/mods/24178/?tab=files&file_id=169129)
+
 ## 2.0.1
 
 **Should be save compatible**
