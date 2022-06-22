@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.2
+
+**Should be Save Compatible**
+
+**Info**:
+
+- Fixed issue with Lantern meshes
+- Fixed many issues with Candle meshes
+- Fixed issue with Lux Meshes not corresponding to correct textures
+
 ## 2.0.1
 
 **Should be Save Compatible**
