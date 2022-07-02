@@ -59,26 +59,17 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 AVO is aimed at mid-tier machines so a system similar to the following is advised:
 
-### 1080p
+###  Recommended 1080p
 - CPU: Modern Quad or Hex core processor (R5 2600/i5-8600k or better)
 - RAM: 16GB DDR4
 - Drive: SSD
-- GPU: 6GB GPU such as 1660TI or 5600XT (4GB GPU may be able to run it, but 6GB **stongly recommended**)
+- GPU: 6GB GPU such as 1660TI or 5600XT (AMD RX 500 series is not supported. You will maybe be able to achieve 30fps without the ENB.)
 
-### 1440p
-- CPU: Modern Hex or Octo core processor (R7 5800x/i7-10700k or better)
+### Recommended 1440p
+- CPU: Modern Hex or Octo core processor (R7 3800x/i7-9700k or better)
 - RAM: 32GB DDR4 (16GB may run it, but 32GB **strongly recommended**)
 - Drive: NVME SSD
-- 8GB GPU such as RTX 3070 or AMD Equivalent (AMD RX 500 series is **NOT** suitable for running this list at 1440p)
-
-### My specs
-
-- R7 5800x
-- 32GB DDR4 3600mhz
-- NVME M.2 PCIE 3 SSD
-- XFX Merc Rx 6800 (16GB VRAM)
-
-I average (uncapped) 120+ fps in interiors and 70-90fps in exteriors with the ENB on.
+- 8GB GPU such as RTX 3070 or AMD Equivalent
 
 Space required: Approx 115GB (Downloads included)
 
