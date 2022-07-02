@@ -1,8 +1,8 @@
 # AVO-AE
 
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
+![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp)
 
-Wabbajack Modlist Installer by The Animonculory Team
+Wabbajack Modlist Installer by Althro & Styyx
 
 <table stlyle="border: none;">
 <tr>
@@ -58,21 +58,19 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
-AVO-AE is aimed at mid-tier machines so a system similar to the following is advised:
-
-### 1080p
-- CPU: AMD Ryzen 5 3600 or Intel equivalent 
+### Recommended 1080p
+- CPU: Modern Quad or Hex core processor (R5 2600/i5-8600k or better)
 - RAM: 16GB DDR4
 - Drive: SSD
-- GPU: 6GB GPU such as 1660TI or 5600XT (4GB GPU may be able to run it, but 6GB **stongly recommended**)
+- GPU: 6GB GPU such as 1660TI or 5600XT (RX 500 series not supported)
 
-### 1440p
-- CPU: AMD Ryzen 7 5800x or Intel Equivalent 
+### Recommended 1440p
+- CPU: Modern Hex or Octo core processor (R7 3800x/i7-9700k or better)
 - RAM: 32GB DDR4 (16GB may run it, but 32GB **strongly recommended**)
 - Drive: NVME SSD
-- 8GB GPU such as RTX 3070 or AMD Equivalent
+- 8GB GPU such as RTX 2070 or AMD Equivalent
 
-Space required: Approx 100GB (Downloads included)
+Space required: Approx 130GB (Downloads included)
 
 ## Installation
 
