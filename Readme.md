@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by The Animonculory Team
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing AVO](#downloading-and-installing-AVO)
+      - [Downloading and Installing AVO](#downloading-and-installing-avo)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -45,7 +45,7 @@ Wabbajack Modlist Installer by The Animonculory Team
   - [Contact](#contact)
 
 ## Preamble
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) by default however can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) by default; however, it can support whichever weather mod you wish to use.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
 
@@ -131,11 +131,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ### ENB
-AVO is designed for use with an ENB and comes with [Nordic Serenity ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62088) availiable for to use alongside an ENB manager. If you want to install your own ENB put them into a seperate folder in AVO\tools\Enb Manager\Animonculory Visual Overhaul\Presets.
+AVO is designed for use with an ENB and comes with [Nordic Serenity ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62088), which is available to use alongside an ENB manager. If you want to install your own ENB, put them into a separate folder in AVO\tools\Enb Organizer\Games\SkyrimSE\Presets.
 
 #### Using ENB Manager
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
 
 ![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
 
@@ -158,7 +158,7 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `SKSE` and press the run button.
+Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
 `AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
@@ -167,17 +167,17 @@ Make sure the dropdown box on the right is set to `SKSE` and press the run butto
 
 ### Starting the Game
 
-- Placeholder for your Readme, by default AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+- Placeholder for your Readme. By default, AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
 	
 ## Adding mods to AVO
 
-To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md) which covers some of the details you need to know.
+To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
 
 ### Anniversary Edition
 
 AVO supports the latest verison of Skyrim, but **does not require** the paid update. 
 
-If you have the paid update, [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) {Coming soon!} is available for you to use. Please see the linked document for more details about it.
+If you have the paid update, [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) is available for you to use. Please see the linked document for more details about it.
 
 ## Updating the modlist
 
@@ -187,7 +187,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-Placehoder for your readme
+Placeholder for your Readme.
 
 ### Tweaking the Game Settings
 
@@ -197,10 +197,10 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 - `Shadow Resolution`: 2048
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
-- `Remove Shadows`: I really don’t recommend turning this on, but if you must then you can.
+- `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
 
 ## Removing the Modlist
-Simply delete the folder and you have uninstalled it.
+Simply delete the folder, and you have uninstalled it.
 
 ## Credits and Thanks
 
