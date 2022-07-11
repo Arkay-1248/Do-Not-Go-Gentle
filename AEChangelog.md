@@ -1,14 +1,19 @@
 # Changelog
 
-## 2.0.2
+## 2.1
 
-**Should be Save Compatible**
+**Not Save Safe - Changelog Subject to change.**
 
 **Info**:
 
-- Fixed issue with Lantern meshes
-- Fixed many issues with Candle meshes
-- Fixed issue with Lux Meshes not corresponding to correct textures
+- Major rework of landscape textures to achieve better consistency. Thanks to Chef for the assistance.
+- Removed Grass Lods due to errors with distance fade transition. - Performance might be better due to this removal.
+- Tweaked Flora set-up to provide more consistency with the new landscapes.
+- Fixed issue with Dawnstar Shoreline. - Thanks to Slim for making the mod.
+- Fixed issue with Ice Mesh transparency.
+- Fixed mesh issue with Candles, Lanterns and other light emitters.
+
+`coming soon`
 
 ## 2.0.1
 
