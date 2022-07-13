@@ -57,19 +57,16 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
-AVO is aimed at mid-tier machines so a system similar to the following is advised:
+AVO has been tested extensively on a range of systems and using industry standard testing software to determine the required specs for the list. As such, the following specs are recommended to run the list.
 
-###  Recommended 1080p
-- CPU: Modern Quad or Hex core processor (R5 2600/i5-8600k or better)
-- RAM: 16GB DDR4
-- Drive: SSD
-- GPU: 6GB GPU such as 1660TI or 5600XT (AMD RX 500 series is not supported. You will maybe be able to achieve 30fps without the ENB.)
-
-### Recommended 1440p
-- CPU: Modern Hex or Octo core processor (R7 3800x/i7-9700k or better)
-- RAM: 32GB DDR4 (16GB may run it, but 32GB **strongly recommended**)
-- Drive: NVME SSD
-- 8GB GPU such as RTX 3070 or AMD Equivalent
+| Spec Category | Minimum for 30fps | Recommended for 60fps |
+|     :---:    |     :---:      |     :---:     |
+| **CPU**   | 6 core/thread @ 2.3Ghz. i9-9600t or better. | 8 Core/16 Thread CPU. i9-9900k or better. |
+| **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overcloked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
+| **Ram**    | 6GB DDR5 with some stuttering.      | 8-10GB DDR5 for smootheset experience. 16GB DDR4/5 advised.     |
+| **With ENB**     | +15% to required resources.       | +10% to required resources.      |
+| **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
+| **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
 Space required: Approx 115GB (Downloads included)
 
