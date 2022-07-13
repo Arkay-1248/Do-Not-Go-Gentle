@@ -76,7 +76,6 @@
 - Removed [Skyland Skyhaven Temple](https://www.nexusmods.com/skyrimspecialedition/mods/65228/?tab=files&file_id=271199)
 - Removed [Smoother Skies](https://www.nexusmods.com/skyrimspecialedition/mods/58250/?tab=files&file_id=240496)
 - Removed [TREES ADDON SE](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=101625)
-- Removed [TROLL](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=14401)
 - Removed [The Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/66261/?tab=files&file_id=276217)
 - Removed [Unique Skulls HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52073/?tab=files&file_id=215294)
 - Removed [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=276697)
