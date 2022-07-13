@@ -51,7 +51,7 @@ The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonc
 
 [![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
 
-**NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. 
+**NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. If you wish to use the new paid content update, please use [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
