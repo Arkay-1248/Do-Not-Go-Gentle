@@ -2,7 +2,9 @@
 
 ## 2.1
 
-**Not Save Safe - Changelog Subject to change.**
+**Build at:** `14/07/2022 11:52:35`
+
+**Not Save Safe!**
 
 **Info**:
 
@@ -14,8 +16,8 @@
 - Fixed mesh issue with Candles, Lanterns and other light emitters.
 - Swapped Lighting mod to provide greater consistency between AVO & AVO-AE.
 - Changed to new ENB + Weather mod combination. Custom tweaked by Anna for AVO & AVO-AE.
-- Download Size change: -259.3MB (Total: 58.7GB)
-- Install Size change: 4.9GB (Total: 77.8GB)
+- Download Size change: 159.6MB (Total: 58.3GB)
+- Install Size change: 5GB (Total: 77.6GB)
 
 **Download Changes**:
 
@@ -38,23 +40,25 @@
 - Added [Myrkvior - TFoS Add-On - 3D Hybrid Trees SSE - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/54565/?tab=files&file_id=223953)
 - Added [Myrkvior - The Flora Of Skyrim - Trees SSE](https://www.nexusmods.com/skyrimspecialedition/mods/28406/?tab=files&file_id=186799)
 - Added [NIF Preview (3D Model Viewer) for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/69813/?tab=files&file_id=293627)
-- Added [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934/?tab=files&file_id=292420)
-- Added [Polar Peaks - 16K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/66177/?tab=files&file_id=275639)
+- Added [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934/?tab=files&file_id=292417)
+- Added [Polar Peaks - 16K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/66177/?tab=files&file_id=279522)
 - Added [Quality CubeMaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231/?tab=files&file_id=152190)
 - Added [Relighting Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/8586/?tab=files&file_id=268720)
 - Added [SC - Glacierslab Addon](https://www.nexusmods.com/skyrim/mods/99443/?tab=files&file_id=1000305418)
-- Added [SOLAS Weathers and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/49004/?tab=files&file_id=227951)
+- Added [SOLAS Weathers and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/49004/?tab=files&file_id=230177)
 - Added [Silver Objects SMIMed - Silver - Sovngarde - Thieves Guild - Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/70787/?tab=files&file_id=297083)
 - Added [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=286296)
 - Added [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481/?tab=files&file_id=134996)
 - Added [The Elder Scrolls V Rewritten - Arvak SE](https://www.nexusmods.com/skyrimspecialedition/mods/11999/?tab=files&file_id=33193)
 - Added [aMidianBorn Book of Silence SE](https://www.nexusmods.com/skyrimspecialedition/mods/35382/?tab=files&file_id=148033)
-- Removed [3D Whiterun Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67700/?tab=files&file_id=282865)
+- Removed [3D Whiterun Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67700/?tab=files&file_id=288167)
 - Removed [3D Whiterun Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/41801/?tab=files&file_id=170134)
 - Removed [4K Torture Rack](https://www.nexusmods.com/skyrimspecialedition/mods/30805/?tab=files&file_id=162327)
 - Removed [Better Dirt Cliffs and Alphas](https://www.nexusmods.com/skyrimspecialedition/mods/34035/?tab=files&file_id=138678)
 - Removed [Cathedral Weathers MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24940/?tab=files&file_id=118786)
-- Removed [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791/?tab=files&file_id=166374)
+- Removed [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791/?tab=files&file_id=255566)
+- Removed [ENB Complex Grass - Patch Compendium for various grass mods](https://www.nexusmods.com/skyrimspecialedition/mods/67304/?tab=files&file_id=283013)
+- Removed [Ebony Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60942/?tab=files&file_id=286973)
 - Removed [Enhanced Landscapes - Dilon Vul - DynDOLOD 3D Hybrids](https://www.nexusmods.com/skyrimspecialedition/mods/54635/?tab=files&file_id=224187)
 - Removed [Enhanced Landscapes - Oaks Standalone SSE - Marsh Pines - Dilon Vul](https://www.nexusmods.com/skyrimspecialedition/mods/27367/?tab=files&file_id=174981)
 - Removed [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=287724)
@@ -70,17 +74,15 @@
 - Removed [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578/?tab=files&file_id=277350)
 - Removed [Ljoss ReLUX for Cathedral Weather - Lexy's LOTD Official ENB Preset](https://www.nexusmods.com/skyrimspecialedition/mods/63578/?tab=files&file_id=277403)
 - Removed [Lux - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/60524/?tab=files&file_id=278693)
-- Removed [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=279105)
+- Removed [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=278691)
 - Removed [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588/?tab=files&file_id=278680)
 - Removed [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=280865)
 - Removed [Northern Ice](https://www.nexusmods.com/skyrimspecialedition/mods/41854/?tab=files&file_id=167826)
 - Removed [Optimized meshes for ENB lights](https://www.nexusmods.com/skyrimspecialedition/mods/68843/?tab=files&file_id=289077)
-- Removed [Orcish Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59907/?tab=files&file_id=287167)
 - Removed [Particle Lights For ENB SE - Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/44022/?tab=files&file_id=178377)
 - Removed [Radiant - Candles (ENB Lights)](https://www.nexusmods.com/skyrimspecialedition/mods/55856/?tab=files&file_id=240709)
 - Removed [Rum Induced Mountains SE - 8K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/32554/?tab=files&file_id=161843)
 - Removed [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192/?tab=files&file_id=159547)
-- Removed [SKELETON](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54629)
 - Removed [Septentrional Landscapes SE - 8K](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
 - Removed [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=217702)
 - Removed [Skyland - High Hrothgar](https://www.nexusmods.com/skyrimspecialedition/mods/43041/?tab=files&file_id=273282)
@@ -98,16 +100,18 @@
 - Removed [TREES ADDON SE](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=101625)
 - Removed [The Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/66261/?tab=files&file_id=276217)
 - Removed [Unique Skulls HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52073/?tab=files&file_id=215294)
+- Removed [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=290747)
+- Removed [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=241103)
+- Removed [Whiterun Objects SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/69125/?tab=files&file_id=289175)
+- Removed [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
 - Removed [the Pebbles SE](https://www.nexusmods.com/skyrimspecialedition/mods/49413/?tab=files&file_id=201531)
 - Updated [Animonculory Resources](https://www.nexusmods.com/skyrimspecialedition/mods/62561/?tab=files&file_id=298101)
-- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=297406)
-- Updated [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291767)
+- Updated [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291768)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=296828)
 - Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756/?tab=files&file_id=294886)
 - Updated [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=296254)
 - Updated [Daedric Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/67389/?tab=files&file_id=293495)
 - Updated [Daedric Shrines by Mandragorasprouts - Loading Screen Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/66061/?tab=files&file_id=296228)
-- Updated [ENB Complex Grass - Patch Compendium for various grass mods](https://www.nexusmods.com/skyrimspecialedition/mods/67304/?tab=files&file_id=297788)
 - Updated [Ebony Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60942/?tab=files&file_id=294132)
 - Updated [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=294916)
 - Updated [Forgotten Creatures](https://www.nexusmods.com/skyrim/mods/104355/?tab=files&file_id=1000354240)
@@ -120,10 +124,7 @@
 - Updated [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445/?tab=files&file_id=294117)
 - Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=292474)
 - Updated [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=292193)
-- Updated [Whiterun Objects SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/69125/?tab=files&file_id=291790)
 - Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=293479)
-
-`coming soon`
 
 ## 2.0.1
 
