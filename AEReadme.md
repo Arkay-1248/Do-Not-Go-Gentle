@@ -48,7 +48,7 @@ Wabbajack Modlist Installer by Althro & Styyx
 
 **NOTE**: AVO-AE **REQUIRES** the paid update to Skyrim. If you do not own the full **paid** update, please use the [standard AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md).
 
-Animonculory Visual Overhaul **Anniversary Edition** (AVO-AE) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) by default; however, it can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul **Anniversary Edition** (AVO-AE) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
 
@@ -132,7 +132,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 AVO-AE uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-AVO-AE is designed for use with an ENB and comes with [Ljoss ReLUX](https://www.nexusmods.com/skyrimspecialedition/mods/63578), which is availiable to use alongside an ENB manager. If you want to install your own ENB, put them into a seperate folder in `AVOAE\Tools\ENB Organizer\Games\SkyrimSE\Presets`. You will need to enable the ENB via ENB Manager prior to starting the game.
+AVO-AE is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
+
+If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `AVOAE\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
 
 #### Using ENB Manager
 
