@@ -37,9 +37,13 @@ __Synthesis__
 - nodragonlods
 
 __ELE-SynthMasterPatch__
-- ELE_Patcher (only required on standard AVO)
+- ELE_Patcher
 
 No custom data is used in these patches so you can just simply run them.
+
+**WARNING!**
+
+The lighting mods used in both AVO & AVO-AE have a master patch which is required for lighting to be consistant in all areas. If you are not changing the lighting mod or any areas that modify cells, **DO NOT** re-run the ELE patcher. If you have to re-run the patcher, make a backup of the original patch and then compare your new one to the one that came with the list in xEdit. You will **very likely** need to repatch Water4ENB records as the Synthesis patcher **DOES NOT** correctly forward them.
 
 ## Adding Mods
 
@@ -74,6 +78,8 @@ These are mods that change things relating to
 - Mountains
 
 These are more involved as you will need to regenerate the LOD files to ensure there is consistency across the worldspace. After positioning these in the correct section, please follow [this guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) for regenerating the LOD files.
+
+**NOTE**: Both AVO & AVO-AE use custom tree rules which can be found on the [Morekvior DynDOLOD Add-ON](https://www.nexusmods.com/skyrimspecialedition/mods/54141) page. It uses the `Optimal` settings with the Lod32 settings from ACMOS.
 
 #### NPC Replacers
 
