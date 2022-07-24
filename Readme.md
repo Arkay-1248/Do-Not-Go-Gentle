@@ -198,6 +198,32 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
 
+
+#### ENB
+
+AVO ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
+
+##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
+
+1. Press [Shift+Enter] to open the ENB menu.
+2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
+3. Scroll down until you see letterbox and untick it.
+4. Press the save configuration button.
+5. Press [Shift+Enter] to return to the game.
+
+##### Turning off settings for FPS
+
+If you are struggling for frames but want the colour correction and realism, turn off the following items.
+
+- DetailedShadows
+- ComplexFireLights
+- ComplexParticleLights – Disable Big Range
+- Reflection
+- Complex Grass Collision
+- Complex Grass
+
+If you really cannot handle the ENB, uncheck `useEffect`. Note that this will make the list look much worse and it's not intended to be played like that.
+
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
