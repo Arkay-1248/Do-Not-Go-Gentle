@@ -50,7 +50,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 Do Not Go Gentle is designed as requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough.  It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
 
-The full modlist can be viewed [here]()
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -75,7 +75,7 @@ Installing DNGG is relatively easy and, if you have Nexus Premium, will be a sim
 
 ### Pre-Installation
 
-Prior to installing AVO-AE, please complete the following steps.
+Prior to installing DNGG, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -92,13 +92,13 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 #### Downloading and Installing AVO-AE
 
-Downloading and installing AVO-AE can take a while depending on your internet connection and computer. To install AVO, complete the following steps.
+Downloading and installing DNGG can take a while depending on your internet connection and computer. To install DNGG, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
 2. Make sure the `show unofficial lists` checkbox is ticked
 ![UnofficialListHelp](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/UnofficialListHelp.png)
-3. Press the download button on AVO-AE and wait for it to download.
-4. Set the installation folder to be somewhere like `C:\Games\AVOAE`. **Do not install it to your desktop or downloads folder.**
+3. Press the download button on DNGG and wait for it to download.
+4. Set the installation folder to be somewhere like `C:\DNGG`. **Do not install it to your desktop or downloads folder.**
 5. The download location does not need to be on a SSD but it makes installing a bit faster
 6. Press the play button to begin.
 7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -127,10 +127,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-AVO-AE uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
+DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-AVO-AE is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
+DNGG is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `AVOAE\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
 
