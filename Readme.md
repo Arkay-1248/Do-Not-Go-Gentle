@@ -1,4 +1,4 @@
-# AVO-AE
+# Do Not Go Gentle
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp)
 
