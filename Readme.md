@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp)
 
-Wabbajack Modlist Installer by Althro & Styyx
+Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 <table stlyle="border: none;">
 <tr>
@@ -46,13 +46,11 @@ Wabbajack Modlist Installer by Althro & Styyx
 
 ## Preamble
 
-**NOTE**: AVO-AE **REQUIRES** the paid update to Skyrim. If you do not own the full **paid** update, please use the [standard AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md).
+**NOTE**: Do Not Go Gentle **REQUIRES** the paid update to Skyrim.
 
-Animonculory Visual Overhaul **Anniversary Edition** (AVO-AE) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Do Not Go Gentle is designed as requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough.  It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
-
-[![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
+The full modlist can be viewed [here]()
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -69,11 +67,11 @@ AVO-AE has been tested extensively on a range of systems and using industry stan
 | **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
 | **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
-Space required: Approx 130GB (Downloads included)
+Space required: Approx 188GB (Downloads included)
 
 ## Installation
 
-Installing AVO-AE is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing DNGG is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
