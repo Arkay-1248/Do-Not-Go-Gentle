@@ -38,8 +38,8 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)
-  - [Updating AVO](#updating-the-modlist)
-  - [FAQ](#faq)
+    - .[Updating the modlist].(#Updating-the-modlist)
+    - [FAQ](#faq)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -121,7 +121,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [E.V.C. ENB]([(https://www.nexusmods.com/skyrimspecialedition/mods/71743)]), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
+DNGG is designed for use with an ENB and comes with [E.V.C. ENB]([https://www.nexusmods.com/skyrimspecialedition/mods/71743]), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
 
 I have also included Heidel's Reshade, as I love the combined look with EVC ENB
 
@@ -155,17 +155,19 @@ Open the installation folder and double click on the program called `ModOrganize
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
-`AVO-AE has no MCM options required, however you can load the SmoothCam preset if you wish.`
 
-- This serves as a placeholder in case you want to use the Readme as some sort of template.
+DNGG has no MCM options required, since MCM recorder will run automatically. However, please test out the different smoothcam presets available and feel free to tinker any settings in the MCM menu.
 
 ### Starting the Game
 
-- Placeholder for your Readme. By default, AVO-AE uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+By default, DNGG uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+I suggest skipping the intro when prompted, unless by some magic this is your first time playing Skyrim. 
 	
-## Adding mods to AVO-AE
+## Adding mods to DNGG
 
-To safely add mods to AVO-AE, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
+I know you may want to add some extra mods on top of this. I also know I will not stop you from doing so; therefore, I have to say that I can only help you to the fullest of my ability if you _have not_ added any mods. ENBs, racemenu presets, and cbbe bodyslide presets are an exception to this rule. 
+
+As a suggestion: _DO NOT_ put any additional mods with plugins below the paper maps, but preferably they should go above DynDOLOD.esp.
 
 ## Updating the modlist
 
@@ -189,7 +191,7 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 #### ENB
 
-AVO-AE ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
+DNGG ships with an ENB and Reshade setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
 
 ##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
 
@@ -218,7 +220,7 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- The Animonculory Team.
+- The Animonculory Team for helping me learn so much about modding and being so kind.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
@@ -233,7 +235,6 @@ You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory
 - Styyx - Senior Management Team & Dev Team
 - Chef/Para0x - Senior Management Team & Dev Team
 - The Spaniard -Senior Management Team & Documentation
-- GuitarBarbarian - Senior Management Team
 - Annakins - Dev Team, Testing, Graphics & Documentation
 - Astro - Dev Team & Testing
 - DestinySlayer - Dev Team & Community Engagement
