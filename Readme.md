@@ -1,6 +1,6 @@
 # Do Not Go Gentle
 
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp)
+# This list requires the AE content upgrade to be purchased and installed
 
 Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
@@ -46,9 +46,9 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 ## Preamble
 
-**NOTE**: Do Not Go Gentle **REQUIRES** the paid update to Skyrim.
+**NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough.  It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
+Do Not Go Gentle is designed as requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
@@ -56,9 +56,25 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
+My Specs: 
 
+Processor:	i9-12900k
+GPU: 		3090
+Storage:	2TB m.2 nvme
+Pagefile:	40GB
+ShaderCache:	10GB
 
-Space required: Approx 188GB (63 GB of downloads included)
+As you might see, I have a problem suggesting minimum requirements because of my higher end computer. However, if you have run Serenity, AVO, or a list similar, I don't think you should have a problem with this. 
+
+Recommended:
+
+Processor:	8 Core/16 Thread CPU. i9-9900k or better.
+GPU: 		6-8GB or more
+Storage: 	SSD or m.2 nvme
+Pagefile: 	20-40GB
+ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia
+
+Space required: Approx 188GB (125 GB Install and 63 GB of downloads included)
 
 ## Installation
 
