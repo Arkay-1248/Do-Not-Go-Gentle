@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing AVO-AE](#downloading-and-installing-avo-ae)
+      - [Downloading and Installing DNGG](#downloading-and-installing-avo-ae)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -56,18 +56,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
-AVO-AE has been tested extensively on a range of systems and using industry standard testing software to determine the required specs for the list. As such, the following specs are recommended to run the list.
 
-| Spec Category | Minimum for 30fps | Recommended for 60fps |
-|     :---:    |     :---:      |     :---:     |
-| **CPU**   | 6 core/thread @ 2.3Ghz. i9-9600t or better. | 8 Core/16 Thread CPU. i9-9900k or better. |
-| **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overcloked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
-| **Ram**    | 6GB DDR5 with some stuttering.      | 8-10GB DDR5 for smoothest experience. 16GB DDR4/5 advised.     |
-| **With ENB**     | +15% to required resources.       | +10% to required resources.      |
-| **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
-| **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
-Space required: Approx 188GB (Downloads included)
+Space required: Approx 188GB (63 GB of downloads included)
 
 ## Installation
 
@@ -90,7 +81,7 @@ Prior to installing DNGG, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing AVO-AE
+#### Downloading and Installing DNGG
 
 Downloading and installing DNGG can take a while depending on your internet connection and computer. To install DNGG, complete the following steps.
 
@@ -130,9 +121,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
+DNGG is designed for use with an ENB and comes with [E.V.C. ENB]([(https://www.nexusmods.com/skyrimspecialedition/mods/71743)]), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `AVOAE\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
+I have also included Heidel's Reshade, as I love the combined look with EVC ENB
+
+If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `DNGG\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
 
 #### Using ENB Manager
 
