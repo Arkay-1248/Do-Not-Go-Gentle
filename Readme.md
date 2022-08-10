@@ -52,6 +52,8 @@ Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, and lots
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
+Notable Mods: Skyrim Unbound Reborn, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, [SkyRe Racials](https://www.nexusmods.com/skyrimspecialedition/mods/17915), Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
