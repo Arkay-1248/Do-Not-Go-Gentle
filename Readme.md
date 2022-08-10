@@ -61,9 +61,15 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 My Specs: 
 
 Processor:	i9-12900k
+
 GPU: 		3090
+
+Ram: 		32GB
+
 Storage:	2TB m.2 nvme
+
 Pagefile:	40GB
+
 ShaderCache:	10GB
 
 As you might see, I have a problem suggesting minimum requirements because of my higher end computer. However, if you have run Serenity, AVO, or a list similar, I don't think you should have a problem with this. 
