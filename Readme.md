@@ -48,7 +48,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
@@ -172,12 +172,21 @@ Make sure the dropdown box on the right is set to `SKSE` and press the `Run` but
 
 ### In-Game MCM options
 
-DNGG has no MCM options required, since MCM recorder will run automatically. However, please test out the different smoothcam presets available and feel free to tinker any settings in the MCM menu.
+DNGG has no MCM options required, since MCM Recorder will run automatically. However, please test out the different smoothcam presets available and feel free to tinker any settings in the MCM menu.
 
 ### Starting the Game
 
-By default, DNGG uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
-I suggest skipping the intro when prompted, unless by some magic this is your first time playing Skyrim. 
+By default, DNGG uses [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
+
+Skyrim Unbound is an alternate start mod with a wide range of options. It allows the player to skip the opening sequence, choose whether or not to play as the Dragonborn, and have total control over dragon spawns. The first few chapters of the main questline have been bypassed (and effectively removed), meaning you no longer have to obtain the Dragonstone for Farengar or defeat Mirmulnir for the Jarl of Whiterun. If you do wish to play as the Dragonborn and complete the main quest, all you have to do is absorb a dragon soul and you'll be summoned to High Hrothgar by the Greybeards.
+
+Be sure to also choose "Dragon Souls" in the Unbound MCM if you want to play as a Dragonborn. Failing to do so will result in you not being able to play the main questline with your created character. There is no reverting your decision later down the line, so be sure you want to play as a non-Dragonborn before choosing otherwise. I also would recommend to disable "Spawn in Jail" and "Spawn in the Wilderness", as sometimes this can lead to issues, such as you finding yourself in a place where you can't easily get out of. Solstheim is also a rather tough place to spawn in. It's a DLC area not meant to be visited before you reach a certain level, so starting there might really put you in a tough spot. I wouldn't recommend it unless you're really wanting a challenge.
+
+After choosing your starting point in Unbound, hit Let's Go in the MCM. You will then spawn into a room where you generate your character. Finish and name your character and select Stay Here in the pop up. Let all the messages disappear in the top left, please.
+
+After that, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a class and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. Note that the scroll comes with some trade offs that could be pretty weird later on, but you don't *have to use it. 
+
+Once you are ready to spawn in, hit the Enter key and select Continue. Good Luck!
 	
 ## Adding mods to DNGG
 
