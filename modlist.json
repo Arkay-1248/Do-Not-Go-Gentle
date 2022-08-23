@@ -9,28 +9,27 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "Requiem",
-      "Creation Club", "Hakuna Matata", "Skyrim Special Edition", "Your Mom"
+      "Requiem", "Creation Club", "Visual Overhaul", "Skyrim Special Edition", "Your Mom"
     ],
     "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
+      "image": "",
       "readme": "https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://build.wabbajack.org/authored_files/direct_link/Do%20Not%20Go%20Gentle.wabbajack_d9f6ad10-89eb-4c19-a6bd-1a33812c14c2",
       "machineURL": "machineURL",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "nNzXy/65o7A=",
-      "Size": 291175834,
-      "NumberOfArchives": 1206,
-      "SizeOfArchives": 85894847643,
-      "NumberOfInstalledFiles": 127406,
-      "SizeOfInstalledFiles": 137153986167
+      "Hash": "4ng66g8AP/g=",
+      "Size": 252929571,
+      "NumberOfArchives": 1227,
+      "SizeOfArchives": 86441078672,
+      "NumberOfInstalledFiles": 152841,
+      "SizeOfInstalledFiles": 142696170096
     },
     "version": "0.5.0"
   }
