@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing DNGG](#downloading-and-installing-avo-ae)
+      - [Downloading and Installing DNGG](#downloading-and-installing-dngg)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -77,9 +77,15 @@ As you might see, I have a problem suggesting minimum requirements because of my
 Recommended:
 
 Processor:	8 Core/16 Thread CPU. i9-9900k or better.
+
 GPU: 		6-8GB or more
+
+Ram: 		16+GB
+
 Storage: 	SSD or m.2 nvme
+
 Pagefile: 	20-40GB
+
 ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia
 
 Space required: Approx 188GB (125 GB Install and 63 GB of downloads included)
