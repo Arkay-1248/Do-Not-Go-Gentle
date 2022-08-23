@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing DNGG](#downloading-and-installing-dngg)
+      - [Downloading and Installing DNGG](#downloading-and-installing-avo-ae)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -88,7 +88,7 @@ Pagefile: 	20-40GB
 
 ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia
 
-Space required: Approx 188GB (125 GB Install and 63 GB of downloads included)
+Space required: Approx post install size of 202GB (134 GB Install and 68 GB of downloads included)
 
 ## Installation
 
@@ -250,8 +250,10 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Reflection
 - Complex Grass Collision
 - Complex Grass
+ 
+If your computer cannot handle both the ENB and Reshade, the Page Up button will toggle the reshade while in game, and feel free to turn it off in the ENB Manager. EVC ENB still looks pretty good without the reshade.
 
-If you really cannot handle the ENB, uncheck `useEffect`. Note that this will make the list look much worse and it's not intended to be played like that.
+If you really cannot handle the ENB, the Page Down button will toggle the ENB while in game. Note that this will make the list look much worse and it's not intended to be played like that.
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
