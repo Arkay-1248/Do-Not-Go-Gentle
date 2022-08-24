@@ -200,7 +200,7 @@ Be sure to also choose "Dragon Souls" in the Unbound MCM if you want to play as 
 
 After choosing your starting point in Unbound, hit Let's Go in the MCM. You will then spawn into a room where you generate your character. Finish and name your character and select Stay Here in the pop up. Let all the messages disappear in the top left, please. 
 
-_You will see a message pop up to initialize Requiem_ Open your inventory and close it to do this before leaving the starting room.
+_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting room.
 
 After that, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a class and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. Note that the scroll comes with some trade offs that could be pretty weird later on, but you don't *have to use it. 
 
