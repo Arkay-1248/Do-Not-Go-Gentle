@@ -72,9 +72,11 @@ Pagefile:	40GB
 
 ShaderCache:	10GB
 
+I tend to test in 4k, and play in 2k with these specs. In 4k, I rarely see it drop below 60fps except in some spots around Riverwood, Falkreath, or Riften. In 2k, it typically stays above 100fps.
+
 As you might see, I have a problem suggesting minimum requirements because of my higher end computer. However, if you have run Serenity, AVO, or a list similar, I don't think you should have a problem with this. 
 
-Recommended:
+Recommended for 1080:
 
 Processor:	8 Core/16 Thread CPU. i9-9900k or better.
 
@@ -196,13 +198,19 @@ Skyrim Unbound is an alternate start mod with a wide range of options. It allows
 
 Be sure to also choose "Dragon Souls" in the Unbound MCM if you want to play as a Dragonborn. Failing to do so will result in you not being able to play the main questline with your created character. There is no reverting your decision later down the line, so be sure you want to play as a non-Dragonborn before choosing otherwise. I also would recommend to disable "Spawn in Jail" and "Spawn in the Wilderness", as sometimes this can lead to issues, such as you finding yourself in a place where you can't easily get out of. Solstheim is also a rather tough place to spawn in. It's a DLC area not meant to be visited before you reach a certain level, so starting there might really put you in a tough spot. I wouldn't recommend it unless you're really wanting a challenge.
 
-After choosing your starting point in Unbound, hit Let's Go in the MCM. You will then spawn into a room where you generate your character. Finish and name your character and select Stay Here in the pop up. Let all the messages disappear in the top left, please.
+After choosing your starting point in Unbound, hit Let's Go in the MCM. You will then spawn into a room where you generate your character. Finish and name your character and select Stay Here in the pop up. Let all the messages disappear in the top left, please. 
+
+_You will see a message pop up to initialize Requiem_ Open your inventory and close it to do this before leaving the starting room.
 
 After that, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a class and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. Note that the scroll comes with some trade offs that could be pretty weird later on, but you don't *have to use it. 
+
+One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
 Once you are ready to spawn in, hit the Enter key and select Continue. Good Luck!
 	
 ## Adding mods to DNGG
+
+I have included Autobody AE for the purpose of giving people some sense of semi-realistic body variance, so any CBBE bodyslide you want to use will work by just installing it like a normal mod and then applying that body in the in-game menu. To open that in-game menu, press the ; button in game and choose your bodyslide.
 
 I know you may want to add some extra mods on top of this. I also know I will not stop you from doing so; therefore, I have to say that I can only help you to the fullest of my ability if you _have not_ added any mods. ENBs, racemenu presets, and cbbe bodyslide presets are an exception to this rule. 
 
