@@ -226,7 +226,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-Placehoder for your Readme.
+Q: Screenshake in 3rd person? A: Check the Precision MCM
 
 ### Tweaking the Game Settings
 
@@ -288,4 +288,5 @@ You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory
 - The Spaniard -Senior Management Team & Documentation
 - Annakins - Dev Team, Testing, Graphics & Documentation
 - Astro - Dev Team & Testing
+- Sanguine - Dev Team & Testing
 - DestinySlayer - Dev Team & Community Engagement
