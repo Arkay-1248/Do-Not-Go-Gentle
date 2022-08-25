@@ -216,6 +216,8 @@ I have included Autobody AE for the purpose of giving people some sense of semi-
 
 I know you may want to add some extra mods on top of this. I also know I will not stop you from doing so; therefore, I have to say that I can only help you to the fullest of my ability if you _have not_ added any mods. ENBs, racemenu presets, and cbbe bodyslide presets are an exception to this rule. 
 
+Weapons, armors, spells, followers, etc... might not be as easy to add as you might think. Just throwing in a random weapon/armor will probably get you killed. Adding followers will almost definitely underperform.
+
 As a suggestion: _DO NOT_ put any additional mods with plugins below the paper maps, but preferably they should go above DynDOLOD.esp.
 
 ## Updating the modlist
@@ -226,7 +228,11 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-Q: Screenshake in 3rd person? A: Check the Precision MCM
+Q: Screenshake in 3rd person? 
+A: Check the Precision MCM
+
+Q: Can you add (insert player's favorite mod) into the list? 
+A: Maybe, but probably not. If it's a cool weapon/armor, I might do it cause I'm a sucker for those, but otherwise, probably not.
 
 ### Tweaking the Game Settings
 
