@@ -234,6 +234,9 @@ A: Check the Precision MCM
 Q: Can you add (insert player's favorite mod) into the list? 
 A: Maybe, but probably not. If it's a cool weapon/armor, I might do it cause I'm a sucker for those, but otherwise, probably not.
 
+Q: I ran into someone and everyone attacked! 
+A: You were sprinting, huh? Don't be rude. Sprinting full speed into someone would hurt in real life. If you must know, there is an option to turn that feature off in the Requiem MCM.
+
 ### Tweaking the Game Settings
 
 #### BethINI
@@ -283,7 +286,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+I am available primarily on [my server](https://discord.gg/DffHKcszfg). PLEASE, DO NOT DM ME ON DISCORD.
 
 You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
 
