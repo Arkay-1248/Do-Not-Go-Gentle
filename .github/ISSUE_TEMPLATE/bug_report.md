@@ -1,19 +1,19 @@
 ---
 name: Bug report
-about: Use this to report bugs with list
-title: "[BUG]"
+about: Create a report to help us improve
+title: ''
 labels: ''
-assignees: Althro
+assignees: ''
 
 ---
 
 **Upload your crashlog**
 
-If you've crashed, upload your crashlog from `C:\Users\UserName\Documents\My Games\Skyrim Special Edition`. Reports of crashes that do not include a crashlog will be **ignored and closed.**
+If you've crashed, upload your crashlog from `C:\Users\Username(unique to your PC)\Documents\My Games\Skyrim Special Edition\SKSE`. Reports of crashes that do not include a crashlog will be **ignored and closed.**
 
 **Required: Modlist.txt**
 
-You must also include your modlist.txt from `C:AVO\Profiles\Animonculory Visual Overhaul`
+You must also include your modlist.txt from `Ruvaak\profiles\Ruvaak`
 
 **Describe the bug**
 A clear and concise description of what the bug is. Failure to do this will result in the report being **closed and ignored.**
