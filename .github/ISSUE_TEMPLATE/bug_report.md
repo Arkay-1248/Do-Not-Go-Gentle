@@ -13,7 +13,7 @@ If you've crashed, upload your crashlog from `C:\Users\Username(unique to your P
 
 **Required: Modlist.txt**
 
-You must also include your modlist.txt from `Ruvaak\profiles\Ruvaak`
+You must also include your modlist.txt from `DNGG\profiles\Do Not Go Gentle`
 
 **Describe the bug**
 A clear and concise description of what the bug is. Failure to do this will result in the report being **closed and ignored.**
