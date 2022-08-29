@@ -68,7 +68,7 @@ Ram: 		32GB
 
 Storage:	2TB m.2 nvme
 
-Pagefile:	40GB
+[Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	40GB
 
 ShaderCache:	10GB
 
@@ -86,9 +86,9 @@ Ram: 		16+GB
 
 Storage: 	SSD or m.2 nvme
 
-Pagefile: 	20-40GB
+[Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	20-40GB
 
-ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia
+ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia. 
 
 Space required: Approx post install size of 202GB (134 GB Install and 68 GB of downloads included)
 
