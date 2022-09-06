@@ -48,7 +48,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default.
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) by default.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
@@ -153,9 +153,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [E.V.C. ENB]([https://www.nexusmods.com/skyrimspecialedition/mods/71743]), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
-
-I have also included Heidel's Reshade, as I love the combined look with EVC ENB
+DNGG is designed for use with an ENB and comes with [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `DNGG\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
 
@@ -192,17 +190,11 @@ DNGG has no MCM options required, since MCM Recorder will run automatically. How
 
 ### Starting the Game
 
-By default, DNGG uses [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
+By default, DNGG uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
 
-Skyrim Unbound is an alternate start mod with a wide range of options. It allows the player to skip the opening sequence, choose whether or not to play as the Dragonborn, and have total control over dragon spawns. The first few chapters of the main questline have been bypassed (and effectively removed), meaning you no longer have to obtain the Dragonstone for Farengar or defeat Mirmulnir for the Jarl of Whiterun. If you do wish to play as the Dragonborn and complete the main quest, all you have to do is absorb a dragon soul and you'll be summoned to High Hrothgar by the Greybeards.
+This mod will spawn you into the end of the cave beneath Helgen, as long as you skip the intro(and I suggest you do). After you finish customizing and naming your new character, you should wait about 30 seconds for the mcm recorder to finish and the message box to pop up.Then, **_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting cave.** 
 
-Be sure to also choose "Dragon Souls" in the Unbound MCM if you want to play as a Dragonborn. Failing to do so will result in you not being able to play the main questline with your created character. There is no reverting your decision later down the line, so be sure you want to play as a non-Dragonborn before choosing otherwise. I also would recommend to disable "Spawn in Jail" and "Spawn in the Wilderness", as sometimes this can lead to issues, such as you finding yourself in a place where you can't easily get out of. Solstheim is also a rather tough place to spawn in. It's a DLC area not meant to be visited before you reach a certain level, so starting there might really put you in a tough spot. I wouldn't recommend it unless you're really wanting a challenge.
-
-After choosing your starting point in Unbound, hit Let's Go in the MCM. You will then spawn into a room where you generate your character. Finish and name your character and select Stay Here in the pop up. Let all the messages disappear in the top left, please. 
-
-**_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting room.**
-
-After that, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a class and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. Note that the scroll comes with some trade offs that could be pretty weird later on, but you don't *have to use it. 
+If you took things out of the chest outside the cave, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. Medical History is another note to read that can give you powerful bonuses, but it comes with a tradeoff.
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
@@ -211,8 +203,6 @@ Last thing, I have an insane person's custom button mapping. Please change the v
 Once you are ready to spawn in, hit the Enter key and select Continue. Good Luck! Also, don't forget to get some sleep.
 	
 ## Adding mods to DNGG
-
-I have included Autobody AE for the purpose of giving people some sense of semi-realistic body variance, so any CBBE bodyslide you want to use will work by just installing it like a normal mod and then applying that body in the in-game menu. To open that in-game menu, press the ; button in game and choose your bodyslide.
 
 I know you may want to add some extra mods on top of this. I also know I will not stop you from doing so; therefore, I have to say that I can only help you to the fullest of my ability if you _have not_ added any mods. ENBs, racemenu presets, and cbbe bodyslide presets are an exception to this rule. 
 
@@ -249,7 +239,7 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 #### ENB
 
-DNGG ships with an ENB and Reshade setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
+DNGG ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
 
 ##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
 
@@ -269,10 +259,9 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Reflection
 - Complex Grass Collision
 - Complex Grass
- 
-If your computer cannot handle both the ENB and Reshade, the Page Up button will toggle the reshade while in game, and feel free to turn it off in the ENB Manager. EVC ENB still looks pretty good without the reshade.
 
-If you really cannot handle the ENB, the Page Down button will toggle the ENB while in game. Note that this will make the list look much worse and it's not intended to be played like that.
+
+If your computer cannot handle the ENB, the Page Down button will toggle the ENB while in game. Note that this will make the list look worse and it's not intended to be played like that.
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
