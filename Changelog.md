@@ -27,6 +27,7 @@
 - Updated [Leg Day CBBE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65647/?tab=files&file_id=313828)
 - Updated [Leg Day CBBE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65647/?tab=files&file_id=313829)
 - Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=228605)
+# Removals
 - Removed [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743/?tab=files&file_id=305266)
 - Removed [Heidel - Ultra Fantasy Reshade with Ray Tracying](https://www.nexusmods.com/skyrimspecialedition/mods/59903/?tab=files&file_id=248306)
 - Removed [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
@@ -78,6 +79,7 @@
 - Removed [Weapons Armor Clothing and Clutter Fixes - CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19176/?tab=files&file_id=244260)
 - Removed [Kala's Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/29895/?tab=files&file_id=168887)
 - Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293624)
+# Additions
 - Added [PI-CHO ENB ( Based on Silent Horizons)](https://www.nexusmods.com/skyrimspecialedition/mods/35082/?tab=files&file_id=305745)
 - Added [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=310719)
 - Added [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
