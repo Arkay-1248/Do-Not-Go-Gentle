@@ -241,7 +241,7 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 DNGG ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
 
-##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
+##### Removing the letterbox
 
 1. Press [End] to open the ENB menu.
 2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
