@@ -7,9 +7,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/WJIcon.png" width="64px" /></td>
-<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/GitHub.png" width="72px" /></td>
-<td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
+<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>
 </tr>
 </table>
 
@@ -48,11 +46,11 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) by default.
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, Clockworks, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) by default.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
-Notable Mods: Skyrim Unbound Reborn, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, [SkyRe Racials](https://www.nexusmods.com/skyrimspecialedition/mods/17915), Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, [SkyRe Racials](https://www.nexusmods.com/skyrimspecialedition/mods/17915), Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -275,7 +273,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-I am available primarily on [my server](https://discord.gg/DffHKcszfg). PLEASE, DO NOT DM ME ON DISCORD.
+I am available primarily on [The Animonculory server](https://discord.gg/DffHKcszfg) or on the [Requiem Wabbajack server](https://discord.gg/pty64J2m). PLEASE, DO NOT DM ME ON DISCORD.
 
 You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
 
