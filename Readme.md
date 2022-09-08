@@ -202,7 +202,7 @@ Once you are ready to spawn in, hit the Enter key and select Continue. Good Luck
 	
 ## Adding mods to DNGG
 
-I know you may want to add some extra mods on top of this. I also know I will not stop you from doing so; therefore, I have to say that I can only help you to the fullest of my ability if you _have not_ added any mods. ENBs, racemenu presets, and cbbe bodyslide presets are an exception to this rule. 
+I know you may want to add some extra mods on top of this. I also know I will not stop you from doing so; therefore, I have to say that I can only help you to the fullest of my ability if you _have not_ added any mods. ENBs and racemenu presets are an exception to this rule. 
 
 Weapons, armors, spells, followers, etc... might not be as easy to add as you might think. Just throwing in a random weapon/armor will probably get you killed. Adding followers will almost definitely underperform.
 
