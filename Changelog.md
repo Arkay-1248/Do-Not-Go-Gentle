@@ -1,8 +1,40 @@
 # Changelog
 
-- [0.7.0](#060)
+- [0.7.0](#070)
+- [0.6.0](#060)
 
 ## 0.7.0
+
+**Build at:** `9/8/2022 12:08:22 AM`
+
+**Info**:
+
+- Download Size change: -847.5MB (Total: 83.9GB)
+- Install Size change: 483.7MB (Total: 138.4GB)
+
+**Download Changes**:
+
+- Updated [Do Not Go Gentle Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/70878/?tab=files&file_id=314009)
+- Removed [High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290887)
+- Removed [High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290833)
+- Removed [High Poly Skyrim Plus - High Poly Head Hair Expressive Facegen and Starsight Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/73092/?tab=files&file_id=313413)
+- Removed [High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=291013)
+- Removed [Requiem - Simple Alchemy Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/57027/?tab=files&file_id=308376)
+- Removed [Requiem - Simple Alchemy Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/57027/?tab=files&file_id=311206)
+- Removed [Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=304227)
+- Removed [Do Not Go Gentle Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/70878/?tab=files&file_id=296785)
+- Added [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=312272)
+- Added [Requiem - Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/43185/?tab=files&file_id=223628)
+- Added [Reverb and Ambiance Overhaul UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53686/?tab=files&file_id=313957)
+- Added [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816/?tab=files&file_id=262993)
+- Added [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=236902)
+- Added [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=175626)
+- Added [Talina HPH Racemenu Preset](https://www.nexusmods.com/skyrimspecialedition/mods/73931/?tab=files&file_id=310376)
+- Added [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293097)
+- Added [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293624)
+
+
+## 0.6.0
 
 **Build at:** `9/6/2022 7:15:18 PM`
 
@@ -27,7 +59,6 @@
 - Updated [Leg Day CBBE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65647/?tab=files&file_id=313828)
 - Updated [Leg Day CBBE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65647/?tab=files&file_id=313829)
 - Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=228605)
-# Removals
 - Removed [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743/?tab=files&file_id=305266)
 - Removed [Heidel - Ultra Fantasy Reshade with Ray Tracying](https://www.nexusmods.com/skyrimspecialedition/mods/59903/?tab=files&file_id=248306)
 - Removed [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
@@ -79,7 +110,6 @@
 - Removed [Weapons Armor Clothing and Clutter Fixes - CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19176/?tab=files&file_id=244260)
 - Removed [Kala's Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/29895/?tab=files&file_id=168887)
 - Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293624)
-# Additions
 - Added [PI-CHO ENB ( Based on Silent Horizons)](https://www.nexusmods.com/skyrimspecialedition/mods/35082/?tab=files&file_id=305745)
 - Added [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=310719)
 - Added [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
