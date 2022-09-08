@@ -180,6 +180,8 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
+Check out the optionals tab and enable or disable any of them, but maybe read up on them first
+
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
