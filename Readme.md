@@ -88,7 +88,7 @@ Storage: 	SSD or m.2 nvme
 
 ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia. 
 
-Space required: Approx post install size of 202GB (134 GB Install and 68 GB of downloads included)
+Space required: Approx post install size of 209GB (138 GB Install and 71 GB of downloads included)
 
 ## Installation
 
