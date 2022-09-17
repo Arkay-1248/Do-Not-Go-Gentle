@@ -1,7 +1,143 @@
 # Changelog
 
+- [0.8.4](#084)
+- [0.8.1](#081)
 - [0.7.0](#070)
 - [0.6.0](#060)
+
+## 0.8.4
+
+**Build at:** `9/17/2022 9:49:59 AM`
+
+**Info**:
+
+- Download Size change: -2.2GB (Total: 85.6GB)
+- Install Size change: -23.8GB (Total: 160.7GB)
+
+**Download Changes**:
+
+- Updated [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=289005)
+- Updated [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=307520)
+- Updated [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314972)
+- Updated [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302/?tab=files&file_id=315204)
+- Updated [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=315500)
+- Updated [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=311008)
+- Updated [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=311006)
+- Updated [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588/?tab=files&file_id=315201)
+- Updated [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60888/?tab=files&file_id=310643)
+- Updated [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314993)
+- Updated [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314976)
+- Updated [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=315022)
+
+- Removed [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=289002)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=312272)
+- Removed [Choose Your Sign](https://www.nexusmods.com/skyrimspecialedition/mods/23673/?tab=files&file_id=94794)
+- Removed [Choose Your Sign](https://www.nexusmods.com/skyrimspecialedition/mods/23673/?tab=files&file_id=129043)
+- Removed [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=303857)
+- Removed [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=291954)
+- Removed [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588/?tab=files&file_id=291952)
+- Removed [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60888/?tab=files&file_id=293682)
+- Removed [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=274925)
+- Removed [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=306255)
+- Removed [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=313005)
+- Removed [Equipment Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/68540/?tab=files&file_id=286125)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=236902)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=175626)
+- Removed [Twinblades of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/69701/?tab=files&file_id=304444)
+- Removed [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
+- Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293097)
+- Removed [Beards of Power - Sons of Skyrim - High Poly Vanilla Hair Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62273/?tab=files&file_id=282116)
+- Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293624)
+
+- Added [Boreas Music Redone](https://www.nexusmods.com/skyrimspecialedition/mods/75361/?tab=files&file_id=316345)
+- Added [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155804)
+- Added [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329/?tab=files&file_id=192836)
+- Added [HG Hairdos 2 SE.rar](https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ/file/V9pz2SCY)
+- Added [High Poly Heads for All AE Content](https://www.nexusmods.com/skyrimspecialedition/mods/72555/?tab=files&file_id=305825)
+- Added [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300/?tab=files&file_id=154433)
+- Added [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817/?tab=files&file_id=265640)
+- Added [Lunar Guard Armor](https://www.nexusmods.com/skyrimspecialedition/mods/75349/?tab=files&file_id=316234)
+- Added [Modpocalypse NPCs - All Vanilla NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/54422/?tab=files&file_id=223358)
+- Added [Modpocalypse NPCs - Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54590/?tab=files&file_id=224017)
+- Added [Modpocalypse NPCs - Interesting NPCs - 3DNPC](https://www.nexusmods.com/skyrimspecialedition/mods/54424/?tab=files&file_id=223363)
+- Added [Modpocalypse NPCs - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/57897/?tab=files&file_id=239073)
+- Added [Basic Tweaks and Patches for Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/61101/?tab=files&file_id=256539)
+- Added [TUDM - The Ultimate Dodge Mod v4 x64.rar](https://drive.google.com/uc?id=0B2VgBVA9jE6RTjJiYnRTTE9qRUE&export=download)
+- Added [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155806)
+- Added [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582/?tab=files&file_id=125166)
+- Added [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582/?tab=files&file_id=125165)
+- Added [The Ultimate Dodge Mod - Script Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/54953/?tab=files&file_id=257436)
+- Added [Classic Sprinting Redone (SKSE64)](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=245533)
+- Added [Modpocalypse NPCs - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/54421/?tab=files&file_id=270209)
+- Added [Realistic HD Mushrooms Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/21996/?tab=files&file_id=75828)
+- Added [Static Mesh Improvement Mod Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=314749)
+- Added [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155807)
+- Added [Zaman's Cultist Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/75293/?tab=files&file_id=315932)
+
+
+## 0.8.1
+
+**Build at:** `9/13/2022 4:19:11 PM`
+
+**Info**:
+
+- Download Size change: -1.8GB (Total: 85.3GB)
+- Install Size change: -16.9GB (Total: 153.8GB)
+
+**Download Changes**:
+
+- Updated [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=289005)
+- Updated [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=307520)
+- Updated [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314972)
+- Updated [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302/?tab=files&file_id=315204)
+- Updated [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=315500)
+- Updated [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=311008)
+- Updated [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=311006)
+- Updated [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588/?tab=files&file_id=315201)
+- Updated [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314993)
+- Updated [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314976)
+- Updated [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=315022)
+
+- Removed [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=289002)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=312272)
+- Removed [Choose Your Sign](https://www.nexusmods.com/skyrimspecialedition/mods/23673/?tab=files&file_id=94794)
+- Removed [Choose Your Sign](https://www.nexusmods.com/skyrimspecialedition/mods/23673/?tab=files&file_id=129043)
+- Removed [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=303857)
+- Removed [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=291954)
+- Removed [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588/?tab=files&file_id=291952)
+- Removed [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=274925)
+- Removed [Requiem - small tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=306255)
+- Removed [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=313005)
+- Removed [Equipment Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/68540/?tab=files&file_id=286125)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=236902)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=175626)
+- Removed [Twinblades of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/69701/?tab=files&file_id=304444)
+- Removed [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
+- Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293097)
+- Removed [Beards of Power - Sons of Skyrim - High Poly Vanilla Hair Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62273/?tab=files&file_id=282116)
+- Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293624)
+
+- Added [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155804)
+- Added [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329/?tab=files&file_id=192836)
+- Added [High Poly Heads for All AE Content](https://www.nexusmods.com/skyrimspecialedition/mods/72555/?tab=files&file_id=305825)
+- Added [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300/?tab=files&file_id=154433)
+- Added [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817/?tab=files&file_id=265640)
+- Added [Modpocalypse NPCs - All Vanilla NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/54422/?tab=files&file_id=223358)
+- Added [Modpocalypse NPCs - Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54590/?tab=files&file_id=224017)
+- Added [Modpocalypse NPCs - Interesting NPCs - 3DNPC](https://www.nexusmods.com/skyrimspecialedition/mods/54424/?tab=files&file_id=223363)
+- Added [Modpocalypse NPCs - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/57897/?tab=files&file_id=239073)
+- Added [Basic Tweaks and Patches for Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/61101/?tab=files&file_id=256539)
+- Added [TUDM - The Ultimate Dodge Mod v4 x64.rar](https://drive.google.com/uc?id=0B2VgBVA9jE6RTjJiYnRTTE9qRUE&export=download)
+- Added [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155806)
+- Added [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582/?tab=files&file_id=125166)
+- Added [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582/?tab=files&file_id=125165)
+- Added [The Ultimate Dodge Mod - Script Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/54953/?tab=files&file_id=257436)
+- Added [Classic Sprinting Redone (SKSE64)](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=245533)
+- Added [Modpocalypse NPCs - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/54421/?tab=files&file_id=270209)
+- Added [Realistic HD Mushrooms Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/21996/?tab=files&file_id=75828)
+- Added [Static Mesh Improvement Mod Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=314749)
+- Added [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155807)
+
 
 ## 0.7.0
 
@@ -15,6 +151,7 @@
 **Download Changes**:
 
 - Updated [Do Not Go Gentle Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/70878/?tab=files&file_id=314009)
+
 - Removed [High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290887)
 - Removed [High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290833)
 - Removed [High Poly Skyrim Plus - High Poly Head Hair Expressive Facegen and Starsight Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/73092/?tab=files&file_id=313413)
@@ -23,6 +160,7 @@
 - Removed [Requiem - Simple Alchemy Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/57027/?tab=files&file_id=311206)
 - Removed [Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=304227)
 - Removed [Do Not Go Gentle Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/70878/?tab=files&file_id=296785)
+
 - Added [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174/?tab=files&file_id=312272)
 - Added [Requiem - Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/43185/?tab=files&file_id=223628)
 - Added [Reverb and Ambiance Overhaul UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53686/?tab=files&file_id=313957)
@@ -59,6 +197,7 @@
 - Updated [Leg Day CBBE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65647/?tab=files&file_id=313828)
 - Updated [Leg Day CBBE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/65647/?tab=files&file_id=313829)
 - Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=228605)
+
 - Removed [E.V.C. ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71743/?tab=files&file_id=305266)
 - Removed [Heidel - Ultra Fantasy Reshade with Ray Tracying](https://www.nexusmods.com/skyrimspecialedition/mods/59903/?tab=files&file_id=248306)
 - Removed [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
@@ -110,6 +249,7 @@
 - Removed [Weapons Armor Clothing and Clutter Fixes - CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19176/?tab=files&file_id=244260)
 - Removed [Kala's Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/29895/?tab=files&file_id=168887)
 - Removed [Al's HMB FaceGen Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293624)
+
 - Added [PI-CHO ENB ( Based on Silent Horizons)](https://www.nexusmods.com/skyrimspecialedition/mods/35082/?tab=files&file_id=305745)
 - Added [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=310719)
 - Added [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
