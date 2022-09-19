@@ -218,13 +218,20 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
+Q: You said there's a dodge mod but I can't dodge. Why?
+
+A: I added the dodge function to the perk that Requiem already had dedicated to dodge. The Ultimate Dodge Mod only works if you have the perk, and you need either level 20 in Evasion plus the first Evasion perk or level 50 in Heavy Armor plus the first Heavy Armor perk.
+
 Q: Screenshake in 3rd person? 
+
 A: Check the Precision MCM
 
 Q: Can you add (insert player's favorite mod) into the list? 
+
 A: Maybe, but probably not. If it's a cool weapon/armor, I might do it cause I'm a sucker for those, but otherwise, probably not.
 
 Q: I ran into someone and everyone attacked! 
+
 A: You were sprinting, huh? Don't be rude. Sprinting full speed into someone would hurt in real life. If you must know, there is an option to turn that feature off in the Requiem MCM.
 
 ### Tweaking the Game Settings
