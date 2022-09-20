@@ -222,6 +222,10 @@ Q: You said there's a dodge mod but I can't dodge. Why?
 
 A: I added the dodge function to the perk that Requiem already had dedicated to dodge. The Ultimate Dodge Mod only works if you have the perk, and you need _either_ level 20 in Evasion plus the first Evasion perk _or_ level 50 in Heavy Armor plus the first Heavy Armor perk.
 
+Q: Why am I getting forced in to 3rd person?
+
+A: I put work into making 3rd person much better than vanilla skyrim. I also play combat in 3rd person, but enjoy walking around in 1st. So, Seamless Combat Camera allows that exact thing; it automatically puts you into 3rd person when you enter combat. I like it a lot. It's great.
+
 Q: Screenshake in 3rd person? 
 
 A: Check the Precision MCM
