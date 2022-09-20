@@ -281,6 +281,7 @@ Simply delete the folder, and you have uninstalled it.
 
 - _YOU_ for reading this.
 - The Animonculory Team for helping me learn so much about modding and being so kind.
+- Zelie(Sovn) for helping me with a few things and giving helpful advice.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
@@ -288,14 +289,4 @@ Simply delete the folder, and you have uninstalled it.
 
 I am available primarily on [The Animonculory server](https://discord.gg/DffHKcszfg) or on the [Requiem Wabbajack server](https://discord.gg/pty64J2m). PLEASE, DO NOT DM ME ON DISCORD; it is more helpful for others if your problem gets a solution that others can see.
 
-You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
-
-## The Animonculory Team
-- Althro - Leader & Head of Development
-- Styyx - Senior Management Team & Dev Team
-- Chef/Para0x - Senior Management Team & Dev Team
-- The Spaniard -Senior Management Team & Documentation
-- Annakins - Dev Team, Testing, Graphics & Documentation
-- Astro - Dev Team & Testing
-- Sanguine - Dev Team & Testing
-- DestinySlayer - Dev Team & Community Engagement
+You are welcome to [contribute](https://github.com/Arkay-1248/Do-Not-Go-Gentle/issues/new/choose) to the list, however please check the [changelog](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Changelog.md) before you do.
