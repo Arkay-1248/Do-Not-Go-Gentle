@@ -57,38 +57,28 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ## System Requirements
 
 My Specs: 
-
-Processor:	i9-12900k
-
-GPU: 		3090
-
-Ram: 		32GB
-
-Storage:	2TB m.2 nvme
-
-[Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	40GB
-
-ShaderCache:	10GB
+- Processor:	i9-12900k
+- GPU: 		3090
+- Ram: 		32GB
+- Storage:	2TB m.2 nvme
+- [Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	40GB
+- ShaderCache:	10GB
 
 I tend to test in 4k, and play in 2k with these specs. In 4k, I rarely see it drop below 60fps except in some spots around Riverwood, Falkreath, or Riften. In 2k, it typically stays above 100fps.
 
 As you might see, I have a problem suggesting minimum requirements because of my higher end computer. However, if you have run Serenity, AVO, or a list similar, I don't think you should have a problem with this. 
 
-Recommended for 1080:
+Recommended for 1080p:
+- Processor:	8 Core/16 Thread CPU. i9-9900k or better.
+- GPU: 		6-8GB or more
+- Ram: 		16+GB
+- Storage: 	SSD or m.2 nvme
+- [Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	20-40GB
+- ShaderCache:	This is only available to those on Nvidia, but I recommend setting it to 10GB if you do have nVidia.
 
-Processor:	8 Core/16 Thread CPU. i9-9900k or better.
+The last bit of advice is that it's lighter than [Elysium](https://github.com/TitansBane/Elysium-Remastered) or [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) which are notable high ended lists.
 
-GPU: 		6-8GB or more
-
-Ram: 		16+GB
-
-Storage: 	SSD or m.2 nvme
-
-[Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	20-40GB
-
-ShaderCache:	This is only available to those on nVidia, but I recommend setting it to 10GB if you do have nVidia. 
-
-Space required: Approx post install size of 209GB (138 GB Install and 71 GB of downloads included)
+Space required: Around 210GB; to see a more accurate size; use the card in the Wabbajack Gallery (tick unofficial lists at the top right). 
 
 ## Installation
 
