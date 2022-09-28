@@ -218,7 +218,7 @@ A: I put work into making 3rd person much better than vanilla skyrim. I also pla
 
 Q: Screenshake in 3rd person? 
 
-A: Check the Precision MCM
+A: Check the Precision MCM. If that doesn't cut it for you, enable the mod to disable screenshake in the optional section.
 
 Q: Can you add (insert player's favorite mod) into the list? 
 
@@ -227,6 +227,10 @@ A: Maybe, but probably not. If it's a cool weapon/armor, I might do it cause I'm
 Q: I ran into someone and everyone attacked! 
 
 A: You were sprinting, huh? Don't be rude. Sprinting full speed into someone would hurt in real life. If you must know, there is an option to turn that feature off in the Requiem MCM.
+
+Q: Where are my Ebony Vampires?? I want to die more!!
+
+A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony Vamps while making the Dawnguard bosses stronger. At the same time, Real Configurable Names gives names to otherwise nameless npcs. The combination of these two seem to be masking Ebony Vamps. They aren't gone. If you wanna check somewhere specific, go to Forebears Holdout. I looed at the record. There is one there. However, it still might not look like it, because of the combo of those two mods
 
 ### Tweaking the Game Settings
 
