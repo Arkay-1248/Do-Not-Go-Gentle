@@ -46,11 +46,11 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, Clockworks, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) by default.
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) by default.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
-Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, [SkyRe Racials](https://www.nexusmods.com/skyrimspecialedition/mods/17915), Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, [SkyRe Racials](https://www.nexusmods.com/skyrimspecialedition/mods/17915), Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
