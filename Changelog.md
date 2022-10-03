@@ -1,13 +1,52 @@
 # Changelog
 
-- [0.0.1.0](#0010)
+- [1.0.1](#101)
+- [1.0.0](#100)
 - [0.9.0](#090)
 - [0.8.4](#084)
 - [0.8.1](#081)
 - [0.7.0](#070)
 - [0.6.0](#060)
 
-## 0.0.1.0
+## 1.0.1
+
+**Build at:** `10/3/2022 4:18:37 PM`
+
+**Info**:
+
+- Download Size change: -65.6MB (Total: 98.5GB)
+- Install Size change: -29.1MB (Total: 174.3GB)
+
+**Download Changes**:
+
+- Added [Attack+-+MCODXP+beta+1.5.0.1.zip](https://www.skyrim-guild.com/s/Attack-MCODXP-beta-1501.zip)
+- Added [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=243514)
+- Added [Goetia Animations - Conditional Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/76388/?tab=files&file_id=320841)
+- Added [Night Sky HD SE](https://www.nexusmods.com/skyrimspecialedition/mods/47530/?tab=files&file_id=321152)
+- Added [Occult texture pack](https://www.nexusmods.com/skyrimspecialedition/mods/70416/?tab=files&file_id=294773)
+- Added [Riften Temple Sconce Fix](https://www.nexusmods.com/skyrimspecialedition/mods/76169/?tab=files&file_id=319699)
+- Added [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456/?tab=files&file_id=161310)
+- Added [Taunt Your Enemies - Taunting Matters - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/76430/?tab=files&file_id=321062)
+- Added [TrueHUD - No Enemy Healthbar Fade Delay](https://www.nexusmods.com/skyrimspecialedition/mods/76427/?tab=files&file_id=321056)
+- 
+- Removed [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
+- Removed [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931/?tab=files&file_id=244714)
+- Removed [Hype's Farmhouse Door SE](https://www.nexusmods.com/skyrimspecialedition/mods/76196/?tab=files&file_id=320107)
+- Removed [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=225493)
+- Removed [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=310832)
+- Removed [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=312752)
+- Removed [Realistic Paper Retexture](https://www.nexusmods.com/skyrim/mods/3819/?tab=files&file_id=11289)
+- Removed [Retexture for The Scroll SE](https://www.nexusmods.com/skyrimspecialedition/mods/46612/?tab=files&file_id=189796)
+- Removed [Use Those Comfy Blankets - Fluffy](https://www.nexusmods.com/skyrimspecialedition/mods/75900/?tab=files&file_id=318873)
+- 
+- Updated [ADXP l MCO  Nordic Animation Complete Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72966/?tab=files&file_id=317690)
+- Updated [Happy Little Logs](https://www.nexusmods.com/skyrimspecialedition/mods/76142/?tab=files&file_id=321243)
+- Updated [Hype's Farmhouse Door SE](https://www.nexusmods.com/skyrimspecialedition/mods/76196/?tab=files&file_id=320970)
+- Updated [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=320767)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=317154)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=319309)
+
+## 1.0.0
 
 **Build at:** `9/29/2022 4:09:44 PM`
 
