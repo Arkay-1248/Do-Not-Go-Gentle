@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
 - [0.9.0](#090)
@@ -7,6 +8,24 @@
 - [0.8.1](#081)
 - [0.7.0](#070)
 - [0.6.0](#060)
+
+## 1.0.2
+**Build at:** `10/3/2022 7:59:38 PM`
+
+**Info**:
+
+- Download Size change: -28.5MB (Total: 98.5GB)
+- Install Size change: -15.8MB (Total: 174.3GB)
+
+**Download Changes**:
+
+- Added [Custom Cubemaps (and Metal Tutorial)](https://www.nexusmods.com/skyrimspecialedition/mods/58817/?tab=files&file_id=244024)
+
+- Added [SC - Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/38760/?tab=files&file_id=152628)
+
+- Added [CC Bone Colossus Skeleton Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63167/?tab=files&file_id=262129)
+
+- Removed [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456/?tab=files&file_id=161310)
 
 ## 1.0.1
 
