@@ -78,7 +78,7 @@ Recommended for 1080p:
 
 The last bit of advice is that it's lighter than [Elysium](https://github.com/TitansBane/Elysium-Remastered) or [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) which are notable high ended lists.
 
-Space required: Around 210GB; to see a more accurate size; use the card in the Wabbajack Gallery (tick unofficial lists at the top right). 
+Space required: Around 260GB; to see a more accurate size; use the card in the Wabbajack Gallery (tick unofficial lists at the top right). 
 
 ## Installation
 
