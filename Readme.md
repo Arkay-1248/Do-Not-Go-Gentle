@@ -95,6 +95,8 @@ Prior to installing DNGG, please complete the following steps.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. You also need to start the games to the main menu in order to download all the creations.
 
+# Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files
+
 ### Wabbajack Installation
 
 #### Installing Wabbajack
