@@ -230,7 +230,11 @@ A: You were sprinting, huh? Don't be rude. Sprinting full speed into someone wou
 
 Q: Where are my Ebony Vampires?? I want to die more!!
 
-A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony Vamps while making the Dawnguard bosses stronger. At the same time, Real Configurable Names gives names to otherwise nameless npcs. The combination of these two seem to be masking Ebony Vamps. They aren't gone. If you wanna check somewhere specific, go to Forebears Holdout. I looed at the record. There is one there. However, it still might not look like it, because of the combo of those two mods
+A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony Vamps while making the Dawnguard bosses stronger. At the same time, Real Configurable Names gives names to otherwise nameless npcs. The combination of these two seem to be masking Ebony Vamps. They aren't gone. If you wanna check somewhere specific, go to Forebears Holdout. I looked at the record. There is one there. However, it still might not look like it, because of the combo of those two mods
+
+Q: How do I fast travel? 
+
+A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793).
 
 ### Tweaking the Game Settings
 
