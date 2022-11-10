@@ -1,5 +1,6 @@
 # Changelog
 
+- [2.0.0](#200)
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
@@ -8,6 +9,10 @@
 - [0.8.1](#081)
 - [0.7.0](#070)
 - [0.6.0](#060)
+
+## 2.0.0
+
+- Wabbajack compiler no longer has a changelog generator. I updated a lot of mods, removed some, added some. That's the best I can do, because I added a lot of stuff before I realized I could no longer use Wabbajack's changelog generator.
 
 ## 1.0.2
 **Build at:** `10/3/2022 7:59:38 PM`
