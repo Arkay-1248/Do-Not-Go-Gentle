@@ -46,11 +46,11 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. It uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) by default.
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. 
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
-Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -64,7 +64,7 @@ My Specs:
 - [Pagefile](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/):	40GB
 - ShaderCache:	10GB
 
-I tend to test in 4k, and play in 2k with these specs. In 4k, I rarely see it drop below 60fps except in some spots around Riverwood, Falkreath, or Riften. In 2k, it typically stays above 100fps.
+I tend to test in 4k, and play in 2k with these specs. In 4k, I rarely see it drop below 55fps except in some spots around Riverwood, Falkreath, or Riften. In 2k, it typically stays above 100fps.
 
 As you might see, I have a problem suggesting minimum requirements because of my higher end computer. However, if you have run Serenity, AVO, or a list similar, I don't think you should have a problem with this. 
 
@@ -168,7 +168,7 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ## Playing the List
 
 ### Starting up the list
-Before you launch,  check out the optionals tab in mo2 and enable or disable any of them. You can easily choose whichever resolution you would like to play at. Feel free to enable or disable any of the others, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
+_Before you launch_,  check out the optionals tab in mo2 and enable or disable any of them. You can easily choose whichever resolution you would like to play at, which _you should do that before launching up_. Feel free to enable or disable any of the others, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
@@ -234,7 +234,7 @@ A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony 
 
 Q: How do I fast travel? 
 
-A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793). You can craft the travel packs at a cooking pot or purchase them from any inn keeper. 
+A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793). You can craft the travel packs at a cooking pot or purchase them from any inn keeper, except the two inns in Bruma. 
 
 ### Tweaking the Game Settings
 
