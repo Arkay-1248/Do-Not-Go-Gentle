@@ -50,7 +50,7 @@ Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
-Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, [SkyRe Racials](https://www.nexusmods.com/skyrimspecialedition/mods/17915), Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+Notable Mods: Optional Quick Start, MCO, Precision, SCAR, TDM, Distar's Elden mods(Counter, Parry and Power Attack), Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Scholarship of Skyrim, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -168,7 +168,7 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ## Playing the List
 
 ### Starting up the list
-Before you launch, check out the optionals tab in mo2 and enable or disable any of them, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
+Before you launch,  check out the optionals tab in mo2 and enable or disable any of them. You can easily choose whichever resolution you would like to play at. Feel free to enable or disable any of the others, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
@@ -184,7 +184,7 @@ By default, DNGG uses [Optional Quick Start](https://www.nexusmods.com/skyrimspe
 
 This mod will spawn you into the end of the cave beneath Helgen, as long as you skip the intro(and I suggest you do). After you finish customizing and naming your new character, you should wait about 30 seconds for the mcm recorder to finish and the message box to pop up.Then, **_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting cave.** 
 
-If you took things out of the chest outside the cave, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. [Medical History](https://www.nexusmods.com/skyrimspecialedition/mods/47454) is another note to read that can give you powerful bonuses, but it comes with a tradeoff. You do not have to use these, but the option is there.
+If you took things out of the chest outside the cave, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. You can also choose your birthsign from the start by using the power also in your powers list. You do not have to use these, but the option is there.
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
