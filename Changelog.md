@@ -1,5 +1,6 @@
 # Changelog
 
+- [2.0.2](#202)
 - [2.0.0](#200)
 - [1.0.2](#102)
 - [1.0.1](#101)
@@ -9,6 +10,12 @@
 - [0.8.1](#081)
 - [0.7.0](#070)
 - [0.6.0](#060)
+
+## 2.0.2
+Changes:
+- Properly rebuilt armor merges so that it didn't crash on ashlander gear
+- Read The Room and Completionist Tracker mcms should be good to go by default.
+- Updated Smooth Moveset
 
 ## 2.0.0
 
