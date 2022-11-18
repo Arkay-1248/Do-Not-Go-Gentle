@@ -168,7 +168,7 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ## Playing the List
 
 ### Starting up the list
-**_Before you launch_**,  check out the optionals tab in mo2 and enable or disable any of them. You can easily choose whichever resolution you would like to play at, which **_you should do that before launching up_**. Feel free to enable or disable any of the others, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
+**_Before you launch_**,  check out the optionals tab in mo2. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20221118_101603.png) You can easily choose whichever resolution you would like to play at, which **_you should do that before launching up_**. Feel free to enable or disable any of the others, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
