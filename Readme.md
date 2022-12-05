@@ -174,6 +174,12 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
+### Controller Support?
+
+Yes, just read this modpage description thoroughly: https://www.nexusmods.com/skyrimspecialedition/mods/29381
+
+I tend to play solely on keyboard and mouse, but TUCS was recommended to me as the best mod for complete controller support.
+
 ### In-Game MCM options
 
 DNGG has no MCM options required, since MCM Recorder will run automatically. However, please test out the different smoothcam presets available and feel free to tinker any settings in the MCM menu.
