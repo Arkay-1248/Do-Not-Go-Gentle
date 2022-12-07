@@ -1,9 +1,50 @@
 # Changelog
 
+- [2.1.0](#210)
 - [2.0.3](#203)
 - [2.0.2](#202)
 - [2.0.1](#201)
 - [2.0.0](#200)
+
+## 2.1.0
+
+Updating is _NOT_ save safe.
+
+Fixes:
+- Some things should be fixed, like the Windhelm ctd
+- Dodge perk is available if you have 20 Evasion or 50 Heavy Armor
+- Nerfed Twinblades, but probably not enough
+
+Added:
+- Swift Potion NG
+- Alternate Start Live another Life plus several addons for it
+- More usable lanterns around the world
+- Parallax with Shadows
+- Battlestaff animations
+- A few other animations too
+- Bestial Blood for the new Werewolf mod
+- GoT Dragons for PartySnax and Odhaviing only
+- Children of the Pariah is a cool orc npc overhaul
+- HD Local Map
+- Environs  whole series
+- Four more sound fx mods for shields, bears, swords, and blunt weapons\
+- Auto Parallax
+- Glorious Gradients
+- Kaputt killmove manager
+- Skyrim Outfit System, which has the ability to set a combat outfit
+- Witcher Horse Expansion
+- Intuitive Dragon Riding
+- DMCO for dodge. It still requires the dodge perk
+
+Updated:
+- Switched daedric shrines to Mandrogora's All in One
+- About 100 or so others
+
+Removed:
+- Read the Room
+- Armors of the Velothi 2
+- The Ultimate Dodge Mod
+- Idk, probably a few others too
 
 ## 2.0.3
 
