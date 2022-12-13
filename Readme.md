@@ -186,17 +186,17 @@ DNGG has no MCM options required, since MCM Recorder will run automatically. How
 
 ### Starting the Game
 
-By default, DNGG uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+By default, DNGG uses [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272), but has several addons for spawn locations.
 
-This mod will spawn you into the end of the cave beneath Helgen, as long as you skip the intro(and I suggest you do). After you finish customizing and naming your new character, you should wait about 30 seconds for the mcm recorder to finish and the message box to pop up.Then, **_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting cave.** 
+This mod will spawn you into an abandoned prison. After you finish customizing and naming your new character, you should wait about 30 seconds for the mcm recorder to finish and the message box to pop up.Then, **_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting prison cell.** 
 
-If you took things out of the chest outside the cave, you can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. You can also choose your birthsign from the start by using the power also in your powers list. You do not have to use these, but the option is there.
+You can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. You can also choose your birthsign from the start by using the power also in your powers list. You do not have to use these, but the option is there.
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
-Last thing, please change the vanilla controls to your liking, but remember [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711)'s key is set to the "Shift" key by default. You need it to be able to power attack. As well, Ultimate Dodge Mod takes over your sneak key, so you can move the sneak to whichever key you would like for the dodge key, and then go into the Ultimate Dodge Mod MCM to set your sneak key.
+Last thing, please change the vanilla controls to your liking, but remember [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711)'s key is set to the "Shift" key by default. You need it to be able to power attack. As well, you should set your dodge key in the .
 
-Once you are ready to spawn in, hit the Enter key and select Continue. Good Luck! Also, don't forget to get some sleep.
+Once you are ready to spawn in, choose whichever start you like from the shrine of Mara and . Luck! Also, don't forget to get some sleep.
 	
 ## Adding mods to DNGG
 
@@ -236,7 +236,7 @@ A: You were sprinting, huh? Don't be rude. Sprinting full speed into someone wou
 
 Q: Where are my Ebony Vampires?? I want to die more!!
 
-A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony Vamps while making the Dawnguard bosses stronger. At the same time, Real Configurable Names gives names to otherwise nameless npcs. The combination of these two seem to be masking Ebony Vamps. They aren't gone. If you wanna check somewhere specific, go to Forebears Holdout. I looked at the record. There is one there. However, it still might not look like it, because of the combo of those two mods
+A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony Vamps while making the Dawnguard bosses stronger. They aren't gone. If you wanna check somewhere specific, go to Forebears Holdout. I looked at the record. There is one there. 
 
 Q: How do I fast travel? 
 
