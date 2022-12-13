@@ -9,7 +9,7 @@
 
 ## 2.2.0
 
-Updating is most likely _NOT_ save safe.
+Updating is most likely _NOT_ save safe. I am continuing my character, but that's not likely a good idea, lol.
 
 Fixes:
 - Actually nerfed twinblades this time
