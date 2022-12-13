@@ -22,6 +22,7 @@ Added:
 - Unarmed animations, but they are perk locked behind the Martial Arts perk in the One Handed tree
 - A Nirnroot replacer
 - Kabu's Frost Salts
+- Beard Mask Fix mod
 
 Removed:
 - Animated Interactions and Idles
