@@ -1,10 +1,36 @@
 # Changelog
 
+- [2.2.0](#220)
 - [2.1.0](#210)
 - [2.0.3](#203)
 - [2.0.2](#202)
 - [2.0.1](#201)
 - [2.0.0](#200)
+
+## 2.2.0
+
+Updating is most likely _NOT_ save safe.
+
+Fixes:
+- Actually nerfed twinblades this time
+- Fixed freezing npcs via replacing Combat Stamina Requirements with SCAR Stamina Limitations
+- Three-Eyed Swallow Male meshes are now available
+
+Added: 
+- Two mods with new wairpaints for both males and females
+- Vanargand Sneak animations
+- Unarmed animations, but they are perk locked behind the Martial Arts perk in the One Handed tree
+- A Nirnroot replacer
+- Kabu's Frost Salts
+
+Removed:
+- Animated Interactions and Idles
+
+Updated:
+- Precision
+- Lydia Dialogue mod
+- Valhalla
+- Completionist Tracker
 
 ## 2.1.0
 
