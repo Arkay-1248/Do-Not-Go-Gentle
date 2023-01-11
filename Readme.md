@@ -46,7 +46,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. 
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. Here is a video of me playing the game to give you an idea of what it's like(https://youtu.be/fP1B2WA8GmQ).
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
