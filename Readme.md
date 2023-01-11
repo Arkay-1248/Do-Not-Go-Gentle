@@ -274,6 +274,7 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Reflection
 - Complex Grass Collision
 - Complex Grass
+- Complex Parallax (must be disabled out of game and then you must clear the enbcache)
 
 
 If your computer cannot handle the ENB, the Page Down button will toggle the ENB while in game. Note that this will make the list look worse and it's not intended to be played like that.
