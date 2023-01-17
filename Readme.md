@@ -240,7 +240,7 @@ A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony 
 
 Q: How do I fast travel? 
 
-A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793). You can craft the travel packs at a cooking pot or purchase them from any inn keeper, except the two inns in Bruma. 
+A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793). You can craft the travel packs at a cooking pot or purchase them from any inn keeper, except the two inns in Bruma. There are also teleportation spells from two seperate schools of magic.
 
 ### Tweaking the Game Settings
 
