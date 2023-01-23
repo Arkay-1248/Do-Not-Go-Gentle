@@ -194,7 +194,7 @@ You can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecial
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
-Last thing, please change the vanilla controls to your liking, but remember [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711)'s key is set to the "Shift" key by default. You need it to be able to power attack. As well, you should set your dodge key in the .
+Last thing, please change the vanilla controls to your liking, but remember [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711)'s key is set to the "Shift" key by default. You need it to be able to power attack. As well, you should set your dodge key in the Dodge Framework MCM.
 
 Once you are ready to spawn in, choose whichever start you like from the shrine of Mara and . Luck! Also, don't forget to get some sleep.
 	
