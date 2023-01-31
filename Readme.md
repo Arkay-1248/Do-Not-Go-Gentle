@@ -141,7 +141,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
+DNGG is designed for use with an ENB and comes with [Jade ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83364), already activated and ready for use. The ENB has been slightly custom tweaked for the list to match the intended look, feel and performance of the list. 
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `DNGG\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
 
