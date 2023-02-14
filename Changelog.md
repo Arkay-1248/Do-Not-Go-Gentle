@@ -1,11 +1,28 @@
 # Changelog
 
+- [2.4.1](#241)
 - [2.2.0](#220)
 - [2.1.0](#210)
 - [2.0.3](#203)
 - [2.0.2](#202)
 - [2.0.1](#201)
 - [2.0.0](#200)
+
+## 2.4.1
+
+Fixes:
+- Created two profiles to allow ease of use for DLAA and TAA, depending on your gpu brand
+- No one should be invisible now
+
+Added:
+- Discord Rich Presence is added and enabled by default, but completely optional
+
+Removed:
+- Nithi NPC overhaul Rift Women, Whiterun, and Thieves Guild
+
+
+
+I am aware of the gap between 2.2.0 and 2.4.1. I apologize, but I do not have this information readily available.
 
 ## 2.2.0
 
