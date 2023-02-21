@@ -2,7 +2,7 @@
 
 # This list requires the AE content upgrade to be purchased and installed
 
-Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
+Wabbajack Modlist Installer by [Abandoned_by_Arkay](https://www.patreon.com/Abandoned_by_Arkay) (Arkay-1248)
 
 <table stlyle="border: none;">
 <tr>
@@ -271,12 +271,11 @@ DNGG ships with an ENB setup that is configured to match the look of the list. I
 If you are struggling for frames but want the colour correction and realism, turn off the following items.
 
 - DetailedShadows
-- ComplexFireLights
 - ComplexParticleLights – Disable Big Range
 - Reflection
 - Complex Grass Collision
 - Complex Grass
-- Complex Parallax (must be disabled out of game and then you must clear the enbcache)
+- Complex Parallax (must be disabled out of game from the enbseries.ini inside the Game Root folder and then you must clear the enbcache in that same folder)
 
 
 If your computer cannot handle the ENB, the Page Down button will toggle the ENB while in game. Note that this will make the list look worse and it's not intended to be played like that.
