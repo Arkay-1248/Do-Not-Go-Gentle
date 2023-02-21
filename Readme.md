@@ -46,7 +46,7 @@ Wabbajack Modlist Installer by Abandoned_by_Arkay (Arkay-1248)
 
 **NOTE**: Do Not Go Gentle **REQUIRES** the paid AE update to Skyrim.
 
-Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. Here is a video of me playing the game to give you an idea of what it's like(https://youtu.be/fP1B2WA8GmQ).
+Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable compromise between difficulty and enjoyment, and maybe you will too. [Here](https://youtu.be/fP1B2WA8GmQ) is a video of me playing the game to give you an idea of what it's like.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
@@ -78,7 +78,7 @@ Recommended for 1080p:
 
 The last bit of advice is that it's lighter than [Elysium](https://github.com/TitansBane/Elysium-Remastered) or [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) which are notable high ended lists.
 
-Space required: Around 280GB; to see a more accurate size; use the card in the Wabbajack Gallery. 
+Space required: Around 350GB; to see a more accurate size; use the card in the Wabbajack Gallery. 
 
 ## Installation
 
@@ -141,7 +141,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [Jade ENB](https://www.nexusmods.com/skyrimspecialedition/mods/83364), already activated and ready for use. The ENB has been slightly custom tweaked for the list to match the intended look, feel and performance of the list. 
+DNGG is designed for use with an ENB and comes with [The Cinematic Vanilla ENB](https://www.nexusmods.com/skyrimspecialedition/mods/73084), already activated and ready for use. The ENB has been slightly custom tweaked for the list to match the intended look, feel and performance of the list. 
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `DNGG\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
 
@@ -170,7 +170,7 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Choose which profile you would like to play on from the drop down. It should look like this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_035713.png) The difference between the two profiles is very small, however, you **_cannot use the DLAA profile if you have an AMD gpu_**. If you would like to add DLSS(NVIDIA) or FSR(AMD) to the list, use the DLAA profile and disable DLAA in the optional tab.
+Choose which profile you would like to play on from the drop down. It should look like this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_035713.png) The difference between the two profiles is very small, however, you **_cannot use the DLAA profile if you have an AMD gpu_**. If you would like to add the **ENB compatible version** of DLSS(NVIDIA) or FSR(AMD) to the list, use the DLAA profile and disable DLAA in the optional tab.
 
 **_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_034255.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
 
