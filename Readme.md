@@ -50,7 +50,7 @@ Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
-Notable Mods: Alternate Start- LAL, MCO, Precision, SCAR, TDM, Elden Power Attack, Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+Notable Mods: Alternate Start- LAL, MCO, Precision, SCAR, TDM, One Click Power Attack, Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -196,9 +196,9 @@ You can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecial
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
-Last thing, please change the vanilla controls to your liking, but remember [Elden Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/66711)'s key is set to the "Shift" key by default. You need it to be able to power attack. As well, you should set your dodge key in the Dodge Framework MCM.
+Last thing, please change the vanilla controls to your liking, but remember One Click Power Attack's key is set to the "M3(Middle Mouse Key)" key by default. You need it to be able to power attack. As well, you should set your dodge key in the Dodge Framework MCM if you don't want it to be Caps key
 
-Once you are ready to spawn in, choose whichever start you like from the shrine of Mara and . Luck! Also, don't forget to get some sleep.
+Once you are ready to spawn in, choose whichever start you like from the shrine of Mara and good luck! Also, don't forget to get some sleep.
 	
 ## Adding mods to DNGG
 
