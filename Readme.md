@@ -149,19 +149,19 @@ If you wish to install your own ENB, however, an ENB manager is included. Simply
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
 
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
+![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/ENB%201.png)
 
 If the image below comes up, simply press OK. It is nothing to be concerned about.
 
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
+![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Ignore%20Warning.png?raw=true)
 
 Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
 
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
+![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/ENB%203.png?raw=true)
 
 Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
 
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%205.png)
+![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/ENB%205.png)
 
 For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
