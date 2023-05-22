@@ -218,7 +218,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 Q: You said there's a dodge mod but I can't dodge. Why?
 
-A: I added the dodge function to the perk that Requiem already had dedicated to dodge. The Ultimate Dodge Mod only works if you have the perk, and you need _either_ level 20 in Evasion plus the first Evasion perk _or_ level 50 in Heavy Armor plus the first Heavy Armor perk.
+A: I added the dodge function to the perk that Requiem already had dedicated to dodge. The dodge mod only works if you have the dodge perk, and you need _either_ level 20 in Evasion plus the first Evasion perk _or_ level 50 in Heavy Armor plus the first Heavy Armor perk.
 
 Q: Why am I getting forced in to 3rd person?
 
