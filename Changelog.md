@@ -1,5 +1,6 @@
 # Changelog
 
+- [2.7.0](#270)
 - [2.4.1](#241)
 - [2.2.0](#220)
 - [2.1.0](#210)
@@ -7,6 +8,50 @@
 - [2.0.2](#202)
 - [2.0.1](#201)
 - [2.0.0](#200)
+
+## 2.7.0
+
+Fixes:
+- Removed Twinblades from constructible objects list
+- ATweaks.esp removes more of the skill experience modifiers, including the Imperial Racial bonus. Imperials now get -1 sprinting cost and permanent 15% buy/sell cost modifier instead of the 5% experience modifier.
+- ATweaks.esp gave every race +10 to all 3 base stats and forwarded Requiem's starting skill bonuses. In trade, the mod that gave the +10 to any skill(ELSA) at the start of a new character was removed.
+- Crafting Tweaks and some more Item Rebalances means that most new items need at least the first perk in Smithing to make them.
+- Lots of DLC2 Script fixes mods were put in
+
+Updated: 
+- OAR replaces DAR
+- Most of the flat map mods
+- ENBseries updated to v0494
+- Xelzaz and the Requiem Patch
+- Remiel and the Requiem Patch
+- SDA
+- Scions of the Night
+- Requiem Bruma patch
+- Pact Weapon Redone - It should work fine now....finally!
+
+Added:
+- Journeyman - A Fast Travel Overhaul
+- OCPA Controlmap
+- Dual Casting Fix
+- Ingredient Priority Fix
+- Hellblade replaces Valhalla
+- Time Flies: I have not configured the MCM to my liking yet
+- Requiem - Unarmed Combat Enhancer and it's patch for Special Feats
+- Pilgrim Divine Restrictions
+- Keyboard Shortcuts Fix
+- Dynamic Gamma
+- Vibrant Map Markers
+- Requiem Simple Alchemy Rebalance
+- A Special Weapon handplaced on one enemy
+- INIGO
+- Yet Another Music Merge so that people don't get YT videos de-monetized...hopefully
+- Huntsman and its Requiem patch
+- Unique Uinques and its Requiem patch
+- Compass Navigation Overhaul and its patch for Dear Diary Dark Mode
+- Zelie's handplaced Dwemer fairies. You cannot craft them. Only the handplaced ones exist
+
+There were some changes between 2.4.1 and 2.7.0 that I did not remotely keep track of.
+
 
 ## 2.4.1
 
