@@ -170,17 +170,13 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Choose which profile you would like to play on from the drop down. It should look like this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_035713.png) The difference between the two profiles is very small, however, you **_cannot use the DLAA profile if you have any gpu that is not an RTX card_**. If you would like to add the **ENB compatible version** of DLSS(RTX) or FSR(AMD) to the list, use the DLAA profile and disable DLAA in the optional tab.
-
 **_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_034255.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
 
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### Controller Support?
 
-Yes, just read this modpage description thoroughly: https://www.nexusmods.com/skyrimspecialedition/mods/29381
-
-I tend to play solely on keyboard and mouse, but TUCS was recommended to me as the best mod for complete controller support.
+Yes, just refer to this [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/88974).
 
 ### In-Game MCM options
 
