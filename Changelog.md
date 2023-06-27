@@ -1,5 +1,6 @@
 # Changelog
 
+- [2.7.1](#271)
 - [2.7.0](#270)
 - [2.4.1](#241)
 - [2.2.0](#220)
@@ -8,6 +9,21 @@
 - [2.0.2](#202)
 - [2.0.1](#201)
 - [2.0.0](#200)
+
+## 2.7.1
+
+Fixes: 
+- ATweaks.esp tweak to make Imperials consistent to my other race tweaks. They start out with 120 in each stat
+- Black Screen if you already knew all spells at a level. Simply updated Improved Spell Learning
+
+Added:
+- Requiem Vendor Tweaks to fix the vendor issue we had
+- Goetia and Vanargand sprint, walk, and run animations for use with CATA
+- Statue of Mara Replacer, but the mesh only version
+- Media Keys Fix to hopefully solve the crash for people with controllers
+- Auto Lockpicking because it will quell the stupid Reqeuiem Lockpicking pop up that screws with controllers. Please refer to this [message](https://forum.nexusmods.com/index.php?showtopic=10762758/#entry113546143) for advise to tweak the MCM to your liking and/or to Requiem's standard.
+- Stats of Stealing to properly track stolen items
+
 
 ## 2.7.0
 
