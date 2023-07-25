@@ -188,7 +188,7 @@ By default, DNGG uses [Alternate Start - Live Another Life](https://www.nexusmod
 
 This mod will spawn you into an abandoned prison. After you finish customizing and naming your new character, you should wait about 30 seconds for the mcm recorder to finish and the message box to pop up.Then, **_You will see a message pop up to initialize Requiem._ Open your inventory and close it to do this before leaving the starting prison cell.** 
 
-You can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style and the "Reflect" power in your powers list to give you 10 skill points in a skill of your choosing. These two are a boon to your chosen path and should help you start off slightly easier. You can also choose your birthsign from the start by using the power also in your powers list. You do not have to use these, but the option is there.
+You can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecialedition/mods/72410) scroll in your inventory to choose a loadout specific to that class style. You can also choose your birthsign from the start by using the power also in your powers list. You do not have to use these, but the option is there.
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
@@ -289,6 +289,6 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-I am available primarily on [The Animonculory server](https://discord.gg/DffHKcszfg) or on the [Requiem Wabbajack server](https://discord.gg/kpr9gwR8). PLEASE, DO NOT DM ME ON DISCORD; it is more helpful for others if your problem gets a solution that others can see.
+I am available primarily on the [Requiem Wabbajack server](https://discord.gg/kpr9gwR8). PLEASE, DO NOT DM ME ON DISCORD; it is more helpful for others if your problem gets a solution that others can see.
 
 You are welcome to [contribute](https://github.com/Arkay-1248/Do-Not-Go-Gentle/issues/new/choose) to the list, however please check the [changelog](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Changelog.md) before you do. Lastly, if you love my list, feel free to contribute to my [Patreon](https://www.patreon.com/Abandoned_by_Arkay). I may even end up playing the build of your choice.
