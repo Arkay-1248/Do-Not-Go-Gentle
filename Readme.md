@@ -172,6 +172,8 @@ Open the installation folder and double click on the program called `ModOrganize
 
 **_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_034255.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
 
+Currently, there is one mod you need to disable before launching, as it can cause issues with the religion mod. Please disable the mod "Stats of Stealing" before you launch. It is broken.
+
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### Controller Support?
