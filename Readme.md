@@ -1,6 +1,6 @@
 # Do Not Go Gentle
 
-# This list requires the AE content upgrade to be purchased and installed
+# This Skyrim modlist requires the AE content upgrade to be purchased and installed
 
 Wabbajack Modlist Installer by [Abandoned_by_Arkay](https://www.patreon.com/Abandoned_by_Arkay) (Arkay-1248)
 
