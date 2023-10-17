@@ -61,7 +61,7 @@ My Specs:
 - GPU: 		3090
 - Ram: 		32GB
 - Storage:	2TB m.2 nvme
-- [Pagefile](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Pagefile.md):	40GB
+- Pagefile:	40GB
 - ShaderCache:	10GB
 
 I tend to test in 4k, and play in 2k with these specs. In 4k, I rarely see it drop below 55fps except in some spots around Riverwood, Falkreath, or Riften. In 2k, it typically stays above 100fps.
@@ -74,7 +74,7 @@ Recommended for 1080p:
 - Ram: 		16+GB
 - Storage: 	SSD or m.2 nvme
 - [Pagefile](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Pagefile.md):	20-40GB
-- ShaderCache:	This is only available to those on Nvidia, but I recommend setting it to 10GB if you do have nVidia.
+- [ShaderCache](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/NVIDIA-Driver.png):	This is only available to those on Nvidia, but I recommend setting it to 10GB if you do have nVidia.
 
 The last bit of advice is that it's lighter than [Elysium](https://github.com/TitansBane/Elysium-Remastered) or [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) which are notable high ended lists.
 
