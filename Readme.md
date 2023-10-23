@@ -291,6 +291,6 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-I am available primarily on the [Requiem Wabbajack server](https://discord.gg/kpr9gwR8). PLEASE, DO NOT DM ME ON DISCORD; it is more helpful for others if your problem gets a solution that others can see.
+I am available primarily on the [Requiem Wabbajack server](https://discord.gg/JycmyqzZz7). PLEASE, DO NOT DM ME ON DISCORD; it is more helpful for others if your problem gets a solution that others can see.
 
 You are welcome to [contribute](https://github.com/Arkay-1248/Do-Not-Go-Gentle/issues/new/choose) to the list, however please check the [changelog](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Changelog.md) before you do. Lastly, if you love my list, feel free to contribute to my [Patreon](https://www.patreon.com/Abandoned_by_Arkay). I may even end up playing the build of your choice.
