@@ -125,9 +125,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 	- Make sure that you have downloaded **all** of the creation club content. **THIS LIST WILL NOT RUN WITHOUT IT!**
  	- Commonly failing downloads can probably be found linked in the pins of the #dngg-install-help channel in the discord server linked in the [Contact](#contact) section.
-    	- Known mods commonly failing:
-       		- Lord Nicholas Armor: https://drive.google.com/file/d/1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA/edit
-		- Slow Sprint Equip Bug Fix: https://drive.google.com/file/d/1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2/edit
+    	- Commonly failing mods:
+       		- [Lord Nicholas Armor:](https://drive.google.com/file/d/1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA/edit)
+           	- [Slow Sprint Equip Bug Fix:](https://drive.google.com/file/d/1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2/edit)
 
 - x is not a whitelisted download:
 
