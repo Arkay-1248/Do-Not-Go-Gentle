@@ -32,6 +32,7 @@ Wabbajack Modlist Installer by [Abandoned_by_Arkay](https://www.patreon.com/Aban
     - [Game Folder](#game-folder)
     - [BethINI](#bethini)
     - [ENB](#enb)
+    - [Community Shaders](#community-shaders)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
@@ -50,7 +51,7 @@ Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/do-not-go-gentle)
 
-Notable Mods: Alternate Start- LAL, MCO, Precision, SCAR, TDM, One Click Power Attack, Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decrease carry weight). I cannot include them all here, so check the link above 
+Notable Mods: Alternate Start- LAL, Precision, TDM, One Click Power Attack, Pit Fighter, VIGILANT, Bruma, Wyrmstooth, Leaps of Faith, College of Winterhold Quest Expansion, Pilgrim, Honed Metal, More Carriages, and Wait Carriage in Towns(adds an option to wait for a carriage at any inn not inside a walled city), and Just Sleep(Sleep increases carry weight while sleep deprivation decreases carry weight). I cannot include them all here, so check the link above 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -78,7 +79,7 @@ Recommended for 1080p:
 
 The last bit of advice is that it's lighter than [Elysium](https://github.com/TitansBane/Elysium-Remastered) or [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) which are notable high ended lists.
 
-Space required: Around 350GB; to see a more accurate size; use the card in the Wabbajack Gallery. 
+Space required: Around 400GB; to see a more accurate size; use the card in the Wabbajack Gallery. 
 
 ## Installation
 
@@ -93,7 +94,8 @@ Prior to installing DNGG, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. You also need to start the games to the main menu in order to download all the creations.
+6. Install the [Skyrim Special Edition Creation Kit from Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
+7. You also need to start the games to the main menu in order to download all the creations.
 
 # Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files
 
@@ -122,6 +124,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 	- Make sure that you have downloaded **all** of the creation club content. **THIS LIST WILL NOT RUN WITHOUT IT!**
+ 	- Commonly failing downloads can probably be found linked in the pins of the #dngg-install-help channel in the discord server linked int the [Contact](#contact) section.
 
 - x is not a whitelisted download:
 
@@ -141,38 +144,25 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [Re-Engaged ENB Ultra](https://www.nexusmods.com/skyrimspecialedition/mods/1089), already activated and ready for use. The ENB has been slightly custom tweaked for the list to match the intended look, feel and performance of the list. There are two other enbs included with the list and two different performance options with Re-Engaged ENB. Feel free to switch between them.
+DNGG is designed for use with an ENB and comes with [Amon ENB Obsidian](https://www.nexusmods.com/skyrimspecialedition/mods/1089), already activated and ready for use. There are two other enbs included with the list, PiCho and Rudy. Feel free to switch between them.
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `DNGG\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
+If you wish to install your own ENB, simply put your new ENB into a new mod folder and put the enb files in `DNGG\mods\(name of enb)\Root\(enbfiles)`.
 
-#### Using ENB Manager
+## Community Shaders
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
-
-![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/ENB%201.png)
-
-If the image below comes up, simply press OK. It is nothing to be concerned about.
-
-![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Ignore%20Warning.png?raw=true)
-
-Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
-
-![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/ENB%203.png?raw=true)
-
-Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
-
-![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/ENB%205.png)
-
-For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+If you would prefer to have more performance, or you simply want to use Community Shaders instead of ENB, simply disable the 'ENB Binaries' mod and the enb preset that is enabled. You can choose to enable Amethyst Reshade and its related Kreate preset, if you want, but it is not necessary for Community Shaders to function. Amethyst is the best looking reshade for Community Shaders that I can find so far. It does'nt look quite as good as a good enb, but it performs better and looks pretty great. Try it out if you need more fps than you're getting with ENB
 
 ## Playing the List
 
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-**_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_034255.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. For instance, the list is tuned for 3rd person combat, so disabling Seamless Combat Camera because you always play 1st person means you are missing out a key part of the list.
+**_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_034255.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. 
 
-Currently, there are two mods you need to disable before launching. Please disable the mod "Stats of Stealing" before you launch. It is broken. As well, disable the mod "Racial Skin Variance", unless you have a CPU >= 12900k and/or a GPU >=3090, it will cause stutters even while you have good fps unless you have a really beefy computer. **_YOU MUST NOW_** replace the synthesis.esp included in the list by default with [this file](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Synthesis.7z). Extract the .7z file and replace Synthesis.esp with the Synthesis.esp found in that file. If you are unsure how to do so, ask in the discord server. That's better than breaking things.
+- Quick description of some optional mods:
+  - Optional Nude bodies: seems obvious, but both underwear.dll and New Gentleman.dll are both inside this optional mod. This means that, when you enable optional nudity, both genders will be nude, but will automatically get underwear distributed to them that can be removed if you so choose
+  - Three enb presets and Amethyst Reshade can be disabled at any time. 
+  - Survival Mode is now included with patches and Survival Mode Control Panel, however, it will be turned off by default. You can turn it on in the vanilla settings page if you would so like.
 
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
@@ -194,7 +184,7 @@ You can use the ["Choose your Destiny!"](https://www.nexusmods.com/skyrimspecial
 
 One more thing, Requiem gives you three perks to start out with. I would suggest taking one in light or heavy armor, if you plan to use it for your character. Requiem makes survival and enjoyment slightly dependent on taking perks in the skill you would like to use. For instance, wearing Heavy Armor without the first perk will drain your stamina, which could spell death, in the right situation. Light Armor will also drain your stamina while running, without the first perk. Weapons become much more effective with the first perk, and spells are almost impossible without the first perk in the related school. Again, you get three to start out with, and I feel that is reasonable.
 
-Last thing, please change the vanilla controls to your liking, but remember One Click Power Attack's key is set to the "M3(Middle Mouse Key)" key by default. You need it to be able to power attack. As well, you should set your dodge key in the Dodge Framework MCM if you don't want it to be Caps key
+Last thing, please change the vanilla controls to your liking, but remember One Click Power Attack's key is set to the "M3(Middle Mouse Key)" key by default. You need it to be able to power attack. 
 
 Once you are ready to spawn in, choose whichever start you like from the shrine of Mara and good luck! Also, don't forget to get some sleep.
 	
@@ -213,14 +203,6 @@ Before updating, please check the changelog and back up your saves. You may need
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
 
 ## FAQ
-
-Q: You said there's a dodge mod but I can't dodge. Why?
-
-A: I added the dodge function to the perk that Requiem already had dedicated to dodge. The dodge mod only works if you have the dodge perk, and you need _either_ level 20 in Evasion plus the first Evasion perk _or_ level 50 in Heavy Armor plus the first Heavy Armor perk.
-
-Q: Why am I getting forced in to 3rd person?
-
-A: I put work into making 3rd person much better than vanilla skyrim. I also play combat in 3rd person, but enjoy walking around in 1st. So, Seamless Combat Camera allows that exact thing; it automatically puts you into 3rd person when you enter combat. I like it a lot. It's great.
 
 Q: Screenshake in 3rd person? 
 
@@ -244,17 +226,14 @@ A: You can fast travel using a combination of [More Carriages](https://www.nexus
 
 ### Tweaking the Game Settings
 
-#### BethINI
-
-To get some more FPS, tweak the following value in the detail section in BethINI.
-
-- `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
-- `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
 
 #### ENB
 
-DNGG ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
+DNGG ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. 
+
+- PiCho ENB and Rudy ENB are likely to perform better than Amon ENB.
+- Amethyst Reshade and Kreate preset with ENB Binaries disabled is likely to perform better than PiCho, Rudy, or Amon ENBs, but is also likely to perform worse than *just* using Community Shaders.
+- Community Shaders by itself will give the best performance compared to anything mentioned above, but you might notice some loss in visual fidelity.
 
 ##### Removing the letterbox
 
@@ -264,7 +243,7 @@ DNGG ships with an ENB setup that is configured to match the look of the list. I
 4. Press the save configuration button.
 5. Press [End] to return to the game.
 
-##### Turning off settings for FPS
+##### Turning off ENB settings for FPS
 
 If you are struggling for frames but want the colour correction and realism, turn off the following items.
 
@@ -274,7 +253,6 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Complex Grass Collision
 - Complex Grass
 - Complex Parallax (must be disabled out of game from the enbseries.ini inside the Game Root folder and then you must clear the enbcache in that same folder)
-
 
 If your computer cannot handle the ENB, the Page Down button will toggle the ENB while in game. Note that this will make the list look worse and it's not intended to be played like that.
 
