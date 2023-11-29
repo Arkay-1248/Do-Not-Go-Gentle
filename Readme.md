@@ -171,7 +171,7 @@ Make sure the dropdown box on the right is set to `SKSE` and press the `Run` but
 
 ### Controller Support?
 
-Yes, just refer to this [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/88974).
+Yes, just refer to the picture in this [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/88974) after enabling the related "8-Hotkey Controller Map for OCPA" mod in the Optional separator
 
 ### In-Game MCM options
 
