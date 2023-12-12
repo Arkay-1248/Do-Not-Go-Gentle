@@ -97,7 +97,6 @@ Prior to installing DNGG, please complete the following steps.
 6. Install the [Skyrim Special Edition Creation Kit from Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
 7. You also need to start the games to the main menu in order to download all the creations.
 
-# Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files
 
 ### Wabbajack Installation
 
