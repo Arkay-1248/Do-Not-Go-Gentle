@@ -6,7 +6,7 @@ Wabbajack Modlist Installer by [Abandoned_by_Arkay](https://www.patreon.com/Aban
 
 <table stlyle="border: none;">
 <tr>
-<td><img src="https://github.com/The-Animonculory/AVO-NG/blob/main/.github/WJIcon.png" width="64px" /></td>
+<td><img src="https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>
 </tr>
 </table>
