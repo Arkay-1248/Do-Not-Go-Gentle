@@ -91,7 +91,7 @@ Prior to installing DNGG, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+3. ***Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\ and uninstalling from Steam. Seriously, make sure there is nothing in the Skyrim Special Edition folder in the Steam location.*** 
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. ***You also need to start the games to the main menu in order to download all the creations. You will not have the correct version of the four free CC mods if you do not do this***
