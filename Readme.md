@@ -94,8 +94,7 @@ Prior to installing DNGG, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. Install the [Skyrim Special Edition Creation Kit from Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
-7. You also need to start the games to the main menu in order to download all the creations.
+7. ***You also need to start the games to the main menu in order to download all the creations. You will not have the correct version of the four free CC mods if you do not do this***
 
 
 ### Wabbajack Installation
