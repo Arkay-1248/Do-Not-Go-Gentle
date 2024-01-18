@@ -164,6 +164,7 @@ Open the installation folder and double click on the program called `ModOrganize
   - Optional Nude bodies: seems obvious, but both underwear.dll and New Gentleman.dll are both inside this optional mod. This means that, when you enable optional nudity, both genders will be nude, but will automatically get underwear distributed to them that can be removed if you so choose
   - Three enb presets and Amethyst Reshade can be disabled at any time. 
   - Survival Mode is now included with patches and Survival Mode Control Panel, however, it will be turned off by default. You can turn it on in the vanilla settings page if you would so like.
+  - Clean Save Auto-reloader is enabled by default to help preserve your save from some bugs that still exist in Skyrim related to saving and reloading. You *can* turn this mod off, but I left it enabled by default for this purpose.
 
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
@@ -205,6 +206,10 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
+Q: I thought I just crashed, but it launched and reloaded my save right afterwards
+
+A: Clean Save Auto-reloader is enabled by default to help preserve your save from some bugs that still exist in Skyrim related to saving and reloading. You *can* turn this mod off, but I left it enabled by default for this purpose.
+
 Q: Screenshake in 3rd person? 
 
 A: Check the Precision MCM. If that doesn't cut it for you, enable the mod to disable screenshake in the optional section.
@@ -223,7 +228,7 @@ A: So about the Ebony Vamps, Vampire Collection does reduce the amount of Ebony 
 
 Q: How do I fast travel? 
 
-A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793). You can craft the travel packs at a cooking pot or purchase them from any inn keeper, except the two inns in Bruma. There are also teleportation spells from two seperate schools of magic.
+A: You can fast travel using a combination of [More Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/71135), [Wait Carriage in Towns](https://www.nexusmods.com/skyrimspecialedition/mods/35418), or using the travel packs from [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220). You can craft the travel packs at a cooking pot or purchase them from any general merchants or from some inn keepers. There are also teleportation spells from two seperate schools of magic.
 
 ### Tweaking the Game Settings
 
