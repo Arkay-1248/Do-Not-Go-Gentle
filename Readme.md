@@ -126,6 +126,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
     	- Commonly failing mods:
        		- [Lord Nicholas Armor:](https://drive.google.com/file/d/1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA/edit)
            	- [Slow Sprint Equip Bug Fix:](https://drive.google.com/file/d/1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2/edit)
+           	- [xLODGen.99](https://cdn.discordapp.com/attachments/1108904997934071878/1203383244859514900/xLODGen.99.7z?ex=65d0e4fb&is=65be6ffb&hm=68a1ae3ada60098707932be38df5842b7794e8503e64fd2a6fbe1aa4fc1a852a&)
 
 - x is not a whitelisted download:
 
