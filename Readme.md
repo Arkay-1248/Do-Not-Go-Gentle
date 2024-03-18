@@ -146,7 +146,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 DNGG uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
 
 ### ENB
-DNGG is designed for use with an ENB and comes with [Amon ENB Obsidian](https://www.nexusmods.com/skyrimspecialedition/mods/35141), already activated and ready for use. There are two other enbs included with the list, PiCho and Rudy. Feel free to switch between them.
+DNGG is designed for use with an ENB and comes with Rudy ENB Obsidian, already activated and ready for use. There are two other enbs included with the list, PiCho and Amon. Feel free to switch between them.
 
 If you wish to install your own ENB, simply put your new ENB into a new mod folder and put the enb files in `DNGG\mods\(name of enb)\Root\(enbfiles)`.
 
@@ -159,7 +159,7 @@ If you would prefer to have more performance, or you simply want to use Communit
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-**_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot_20230214_034255.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. 
+**_Before you launch_**, make sure check out the optionals tab in mo2. It should look something similar to this. ![image](https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/.github/Screenshot%202024-03-18%20145621.png) Feel free to enable or disable any of the mods in this section, but maybe read up on them before you do so. 
 
 - Quick description of some optional mods:
   - Optional Nude bodies: seems obvious, but both underwear.dll and New Gentleman.dll are both inside this optional mod. This means that, when you enable optional nudity, both genders will be nude, but will automatically get underwear distributed to them that can be removed if you so choose
