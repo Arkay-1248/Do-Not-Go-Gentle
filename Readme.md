@@ -163,7 +163,8 @@ Open the installation folder and double click on the program called `ModOrganize
 
 - Quick description of some optional mods:
   - Optional Nude bodies: seems obvious, but both underwear.dll and New Gentleman.dll are both inside this optional mod. This means that, when you enable optional nudity, both genders will be nude, but will automatically get underwear distributed to them that can be removed if you so choose
-  - Three enb presets and Amethyst Reshade can be disabled at any time. 
+  - Three enb presets and Amethyst Reshade can be disabled at any time. Make sure to disable "ENB Binaries" in order to use Community Shaders
+  - Journeyman Disabler allows you to fast travel without requiring the travel packs from journeyman. If you toggle this off, travel packs will still appear in game, but they will be useless junk that does nothing and you will be able to fast travel without one. I suggest keeping this toggled on if you are playing with survival mode on. Even without survival mode, I suggest keeping this on until level 20 or so, because the early game is where Journeyman has the most impact anyway.
   - Survival Mode is now included with patches and Survival Mode Control Panel, however, it will be turned off by default. You can turn it on in the vanilla settings page if you would so like.
   - Clean Save Auto-reloader is enabled by default to help preserve your save from some bugs that still exist in Skyrim related to saving and reloading. You *can* turn this mod off, but I left it enabled by default for this purpose.
 
