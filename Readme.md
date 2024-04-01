@@ -245,11 +245,11 @@ DNGG ships with an ENB setup that is configured to match the look of the list. I
 
 ##### Removing the letterbox
 
-1. Press [End] to open the ENB menu.
+1. Press [Control + Shift] to open the ENB menu.
 2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
 3. Scroll down until you see letterbox and untick it.
 4. Press the save configuration button.
-5. Press [End] to return to the game.
+5. Press [Control + Shift] to return to the game.
 
 ##### Turning off ENB settings for FPS
 
